@@ -1,0 +1,4 @@
+train_src: /home/ec2-user/kklab/Projects/lrlp/experiment_2017.08.04.som-eng.y2r1.v1/translation/train/src_raw.som.train.y2r1.v1
+dev_src: /home/ec2-user/kklab/Projects/lrlp/experiment_2017.08.04.som-eng.y2r1.v1/translation/dev/src_raw.som.dev.y2r1.v1
+train_tgt: /home/ec2-user/kklab/Projects/lrlp/experiment_2017.08.04.som-eng.y2r1.v1/translation/train/ref_raw.eng.train.y2r1.v1
+dev_tgt: /home/ec2-user/kklab/Projects/lrlp/experiment_2017.08.04.som-eng.y2r1.v1/translation/dev/ref_raw.eng.dev.y2r1.v1

@@ -1,0 +1,2702 @@
+‘	&#39;	1
+？	?	1
+০-২	0-2	1
+১,০০০	1,000	1
+১০,০০০	10,000	1
+১০০মিলিলিটারের	100 ml	1
+10টায়	At 10pm	1
+10-মিনিটের	10-minute	1
+১০শতাংশ	10 percent	1
+১১০০	1100	1
+১১টায়	At 11pm	1
+১২০টি	120	1
+12ই	12th	1
+১২ই	12th	1
+১২টায়	At 12:00	1
+১-৩	1-3	1
+১৩০	130	1
+১৩৪	134	1
+১৩৬	136	1
+১৪৩টি	143	1
+১৪জন	14 people	1
+১৫০	150	1
+১৫৫	155	1
+১৫৫৭টি	1557	1
+১৫ই	15th	1
+15টিরও	15 of them	1
+১৫শতাংশ	15 percent	1
+১৬ই	16th	1
+১৭৪৫.৫১	1745.51	1
+১৭ই	17th	1
+১৮৭টি	187	1
+১৯৬৩	1963	1
+১৯৬৫	1965	1
+১৯৬৮	1968	1
+১৯৭টি	197	1
+১৯৮৮	1988	1
+১৯৯০	1990	1
+১৯৯১	1991	1
+১৯৯৩	1993	1
+১৯৯৮	1998	1
+১৯জন	19 people	1
+২,০০০	2,000	1
+২০০১	2001	1
+২০০২	2002	1
+২০০২-এর	2002&#39;s	1
+২০০৩-এর	2003&#39;s	1
+২০০৪-এর	Of 2004	1
+২০১৫	2015	1
+২-১	2-1	1
+২৩,০০০	23,000	1
+২৩৩	233	1
+২৪০জনকে	240 people	1
+২৬জন	26 people	1
+২৬টি	26	1
+২৭০জন	270 people	1
+২তারিখে	On 2	1
+2য়	2nd	1
+৩০০	300	1
+৩০০,০০০	300,000	1
+3.00টেয়	3.00 tayay	1
+৩১টি	31	1
+৩২৯	329	1
+৩৩	33	1
+৩৩০-৩০০	330-300	1
+৩৫	35	1
+৩৫০টি	350	1
+৩৫টি	35	1
+৩৫তম	35th	1
+৩৬টি	36	1
+৩৭	37	1
+৩৮	38	1
+৩কোটি	30 million	1
+৪০০টি	400	1
+৪০তম	40th	1
+৪৪	44	1
+৫-০	5-0	1
+৫,০০০	5,000	1
+৫০জন	50 people	1
+৫৩০	530	1
+৫৩টি	53	1
+৫.৭৫	5.75	1
+৫৯	59	1
+৬০,০০০	60,000	1
+৬১২	612	1
+৬২বছর	62 years	1
+6টা	6pm	1
+৬টি	6th	1
+৬শ	6th	1
+৭০	70	1
+৭০জন	70 people	1
+৭.৫	7.5	1
+৭৫শতাংশ	75 percent	1
+7টায়	At 7pm	1
+৭টি	7th	1
+৮৩জন	83 people	1
+৮৫জন	85 people	1
+৮৭৬	876	1
+৮৯	89	1
+৮টায়	At 8 o&#39;clock	1
+90এর	Of 90s	1
+৯৩টি	93	1
+AU-র	AU	1
+Bremer-কে	Bremer	1
+CIA-র	CIA	1
+EU-র	EU	1
+F	deg. F	1
+IAEA-র	IAEA	1
+International-এর	International	1
+NATO-র	NATO	1
+SEECP-র	SEECP	1
+V	V.	1
+xA0ছিল	xA0 was there	1
+xA0ির	xA0c	1
+অংশকে	Part	1
+অংশগুলো	Parts	1
+অংশদারী	Partitions	1
+অংশহণকারীদের	Participants	1
+অংশীদারীত	Parted	1
+অ-কৃষি	Non-agricultural	1
+অতিকায়	Extravagant	1
+অতিপ	Hap	1
+অতি-বিরল	Extremely rare	1
+অতিমাত	Rest	1
+অতিরঞ	Overrun	1
+অথন	Oh	1
+অদূরে	Far away	1
+অধিকারেরও	Rights too	1
+অধিবাসীকে	Resident	1
+অধিবাসীদের	Residents	1
+অধৈর	Daring	1
+অনসারে	On the other hand	1
+অনানুষ	Unbeatable	1
+অনিচ	Unwillingness	1
+অনুকরণের	Imitation	1
+অনুদানের	Donation	1
+অনুন	But please	1
+অনুপযুক	Unsuccessful	1
+অনুপস	Anups	1
+অনুবাদকের	Translators	1
+অনুযায়ি	Accordingly	1
+অনুরক	Resolve	1
+অনুশোচনা	Remorse	1
+অনুষঙ	Anus	1
+অনূকুল	Request	1
+অনেকগুলি	Many	1
+অনেকগুলিই	Many are	1
+অনেকের	Many of them	1
+অপদস	Abomination	1
+অপ-ব	Opp	1
+অপবিত	Spoiled	1
+অপরাধবোধে	Guilt	1
+অপরাধীদেরকে	Criminals	1
+অপরাধে	In crime	1
+অপরিহার	Necessity	1
+অপসারণের	Removal	1
+অপহরণের	Abduction	1
+অপুষ	Apoplexia	1
+অফিসারদের	Officers	1
+অফিসিয়াল	Official	1
+অফিসেও	Office too	1
+অবনতিতে	Deteriorate	1
+অববাহিকায়	In the basin	1
+অবয়ব	Appearance	1
+অবয়বকে	Appearance	1
+অবয়বের	Appearance	1
+অবসরপ	Retirement	1
+অবসরে	Retirement	1
+অবসানের	Ending	1
+অবাধকরণের	The rigging	1
+অবিলম	Immediate	1
+অভাবে	Due to lack	1
+অভাবের	Lack of	1
+অভিধানে	In the dictionary	1
+অভিবাসনের	Migration	1
+অভিবাসীদের	Immigrants	1
+অভিযানগুলি	Expeditions	1
+অভিযানের	Expedition	1
+অমঙ	Anomalies	1
+অমরার	Amarara	1
+অমামাংসিতভাবে	Unanimously	1
+অমূলক	Uncredited	1
+অলোকিত	Untamed	1
+অসমের	Assam	1
+অসহায়	Helpless	1
+অসুখে	Sick	1
+আইডিয়া	Idea	1
+আইনশৃঙ	Law group	1
+আইনে	Under the law	1
+আইনেরই	Of the law	1
+আইভরির	Côte d&#39;Ivoire	1
+আংকারায়	In sync	1
+আঁকড	Screwed	1
+আকাশপথে	In the air	1
+আকাশযাত	Airship	1
+আকাশে	In the sky	1
+আকাশের	The sky	1
+আকৃষ	Wash	1
+আঙ	Angh	1
+আচরণকে	Behavior	1
+আজহার	Azhar	1
+আজার	Azar	1
+আটলেটিকো	Atletico	1
+আড়াইশো	Two and a half hundred	1
+আডিশনাল	The original	1
+আতঙ	Aunt	1
+আততায়ী	It&#39;s up to	1
+আততায়ীর	The assailant	1
+আদলে	Adolescent	1
+আদায়	Earning	1
+আদালতকে	The court	1
+আধিপত	Dominated	1
+আনমেন	Amen	1
+আনশুন	Unsun	1
+আনসাইগার	Unesiger	1
+আববাস	Abbas	1
+আবহাওয়ার	Weather	1
+আবু	Abu	1
+আবুজায়	Abujay	1
+আবেদনগুলির	Applications	1
+আবেল	Abel	1
+আভ	Aww	1
+আভাষই	Aubhsay	1
+আমলাদের	Bureaucrats	1
+আমলের	Of the period	1
+আমেরিকানদের	Americans	1
+আমেরিকানরা	Americans	1
+আমেরিকানের	Americans	1
+আয়ুব	Ayub	1
+আরবে	In Arabia	1
+আরসেনাল	Arsenal	1
+আরামের	Comfortably	1
+আরিয়েল	Ariel	1
+আরোও	Even more	1
+আল-কায়দা	Al Qaeda	1
+আলগেমাইনে	Algemine	1
+আল-জাঝিরা	Al-Jajhira	1
+আলজিরিয়ায়	Algiers	1
+আল-ফারুক	Al-Farooq	1
+আল-বারাদেই	Al-Baraidi	1
+আলবেনিয়ার	Albania	1
+আলবেনীয়	Albanian	1
+আলমারীতে	In the cupboard	1
+আলয়েভ	Alayev	1
+আলাওয়ি	Alawi	1
+আলার	Alar	1
+আলেকজান	Alexander	1
+আলোকচিত	Photography	1
+আশংকা	Fear	1
+আশীর	Ashir	1
+আশেপাশের	Around	1
+আসছেন	Coming	1
+আসছেনা	Can not come	1
+আসতে	Come in	1
+আসবেনা	Will not come	1
+আসামী	The accused	1
+আসামীপক	Proponent	1
+আসা-যাওয়ার	Come and go	1
+আসিনি	Did not come	1
+আসেনি	Did not come	1
+আহরাম	Ahram	1
+ই.ইউ-এর	E.U.&#39;s	1
+ই-ইউর	E-yure	1
+ইউএসএস	USS	1
+ইউএসের	US	1
+ইউকোস-কে	Yukos	1
+ইউছেন	Uyen	1
+ইউনাইটেডকে	United	1
+ইউনাইটেডের	United	1
+ইউনান	Yunnan	1
+ইউনিটকে	Units	1
+ইউনিটগুলির	Units	1
+ইউনিটটি	The unit	1
+ইউ-র	The UK	1
+ইউরোপকে	Europe	1
+ইজ	Is	1
+ইজরায়েলকে	To Israel	1
+ইঞ	E.E.	1
+ইতমধ	Scandal	1
+ইতালিতে	In Italy	1
+ইতালীয়	Italian	1
+ইনরায়েলকে	Inral	1
+ইয়াইছে	Yikes	1
+ইয়াসিন	Yasin	1
+ইয়াসের	Yaser	1
+ইয়েন-চিন	Yen-Chin	1
+ইরাকীদের	Iraqis	1
+ইরার	Irre	1
+ইরিত	Erit	1
+ইসরায়েলও	Israel also	1
+ইসরায়েলকে	To Israel	1
+ইসরায়েলিরা	Israelis	1
+ইসরায়েলী	Israeli	1
+ইসলামকে	Islam	1
+ইসলামাবাদের	Islamabad	1
+ইসলামে	In Islam	1
+ইহুদীর	Jews	1
+ঈদের	Eid	1
+উইং	Wing	1
+উইয়ের	Wie	1
+উইরোরা	Weero	1
+উচুতে	High up	1
+উঠছিলেন	Getting up	1
+উঠবেন	Wake up	1
+উঠার	Wake up	1
+উঠেছিলো	Got up	1
+উড়িয়ে	Blow up	1
+উদগ	Wig	1
+উদযাপনেচ	Celebration	1
+উদযাপনের	Celebration	1
+উদযাপিত	Celebrated	1
+উদাহরণগুলি	Examples	1
+উদাহরন	For example	1
+উপকরণগুলিকে	Materials	1
+উপকরণগুলোর	Materials	1
+উপকরণটিকে	The ingredient	1
+উপকারে	In benefit	1
+উপগ	Ogle	1
+উপত	Upside down	1
+উপনিবেশবাদী	Colonialist	1
+উপয়োগী	Attainable	1
+উপলদ	The occasion	1
+উপসাগরে	In the bay	1
+উপাদানের	Element	1
+উপাসনাগৃহের	House of worship	1
+উভয়ে	Both	1
+উভয়েই	Both of them	1
+উয়েন	Uween	1
+উরুগুয়ায়	Uruguay	1
+উরুসন	Urson	1
+এ-৩৩০-৩০০	A-330-300	1
+--এই	--this	1
+এইচআইভি	HIV	1
+এইতো	So here	1
+এইভাবে	This way	1
+এইমর	This is	1
+এএস	as	1
+এও	Too	1
+এংগোলা	Angola	1
+এংগোলার	Angolar	1
+এঁটে	To fix	1
+একগুঁয়ে	Stubborn	1
+একচীননীতি	Monotheism	1
+এক-তৃতীয়াংশ	One-third	1
+একধরনের	One kind	1
+একধাপ	One step	1
+একপক	Attractive	1
+একবছর	one year	1
+একসংগে	Together	1
+একহার	Ekhare	1
+একেক	Each one	1
+এগুলো	These are	1
+এছাড়া	Besides	1
+এজাহারে	In details	1
+এটাই	That&#39;s it	1
+এটাতে	In it	1
+এড়িয়ে	Skip	1
+এতো	So much	1
+এদিন	This day	1
+এনগেজ	Engage	1
+এনজেলা	Angela	1
+এনপিআর	NPR	1
+এনবিসি	NBC	1
+এপি	AP	1
+এপিসোডটা	Episode	1
+এফবিআই	FBI	1
+এফে	E.f.	1
+এবারও	This time	1
+এবারেও	This time too	1
+এ.বি.এম	ABM	1
+--এমন	--Such	1
+এমনিতেই	That&#39;s why	1
+এমিল	Emil	1
+এয়ার	Air	1
+এয়ারপোর	Airports	1
+এরও	Also of	1
+এরকমই	Like that	1
+এরপরের	Next up	1
+এরাকাত	Arakat	1
+এরি	Eri	1
+এল	L	1
+এলাকাও	Area also	1
+এলাকাটি	The area	1
+এলিমেন	Elimen	1
+এলিয়াস	Aliase	1
+এশীয়া	Asia	1
+এশীয়ার	Asia	1
+এসিডসম	Acidum	1
+এসেছি	I have come here	1
+এসেছিলেন	Came	1
+এসে-যায়	Come and go	1
+ঐকান	Ekon	1
+ওকালান	Wake up	1
+ওকালানকে	Oaklan	1
+ওকালানের	Oaklanera	1
+ওগুলো	Those are	1
+ওছে	It is	1
+ওজকোকের	Ozkoc&#39;s	1
+ওজনই	Weight	1
+ওজনও	Weighing	1
+ওঠতে	Rise up	1
+ওঠানামার	Fluctuation	1
+ওপরে	Above	1
+ওপারে	Beyond	1
+ওমার	Omar	1
+ওয়াও	Wow	1
+ওয়াংচিয়াইউ	Wangchiaiu	1
+ওয়াকেবহাল	Wie	1
+ওয়ারথগ	Wartheg	1
+ওয়ারনিং	Warring	1
+ওয়ার-হেডের	War-Head	1
+ওয়াশিংটনে	In Washington	1
+ওয়েইসানহু	Weissanhu	1
+ওরেগনে	Oregon	1
+ওষুধের	Medicines	1
+ওসামা	Osama	1
+ঔপনেবেশিকঅর	Colporteur	1
+ঔষুধ	Medicines	1
+ঔষুধের	Medicines	1
+কংক	The scales	1
+কগুলি	Q.	1
+কগুলির	Cues	1
+কটগুলির	Cuts	1
+কটে	Cut off	1
+কণাগুলোর	Particles	1
+কতটা	How much	1
+কতার	Katara	1
+কতৃর	Curator	1
+কতে	To come	1
+কথাটা	Talk about	1
+কথাটি	The word	1
+কদের	Who are you	1
+কনফুসিয়াস	Confucius	1
+কনবতে	In the canvate	1
+কনসাল	Consul	1
+কনেফতেগাজ	Connection	1
+কবিতার	Poetry	1
+কমছে	Decreasing	1
+কমতে	To decrease	1
+কমপ	Comp	1
+কমর	Tenure	1
+কমিউনিটির	The community	1
+কমিটিটি	Committee	1
+কমিশনর	Commissioner	1
+কয়েকজন	A few	1
+কয়েকদিন	For a few days	1
+করছিল	Was doing	1
+করতেও	Do it	1
+করনীয়	To do	1
+কররবে	Do it	1
+করল	Did	1
+করলেও	Even though	1
+করান	Make it	1
+করেছিলাম	I did	1
+করেছিলো	Did it	1
+করেছে--আমার	Has done - me	1
+করো	Do it	1
+কলঃ	Call	1
+কলেজের	College	1
+কশক	Ah	1
+কসোভোর	Kosovo	1
+কাংছুয়েন	Kangshuiyan	1
+কাংছুয়েনের	Kangzhenk	1
+কাঁপতে	Tremble	1
+কাগজে	On paper	1
+কাচাকুচি	Cachet	1
+কাছেই	Near	1
+কাছের	Near	1
+কাজও	Work	1
+কাটসিনা	Katzina	1
+কাটাবেন	To spend	1
+কাটিয়ে	To spend	1
+কাঠমণ	Woodcut	1
+কাঠিন	Squirrel	1
+কাতার-এ	In Qatar	1
+কানেকশন	Connection	1
+কাপরুন	Kaprun	1
+কাফর	The unbeliever	1
+কাবুলের	Kabul&#39;s	1
+কা-বৃষ	Cauliflower	1
+কামিনিন	Kaminin	1
+কায়দার	Kaida	1
+কায়মনে	In the house	1
+কায়রোর	Cairo	1
+কায়িক	Physique	1
+কারকর	Carchers	1
+কারণগুলির	Reasons	1
+কারন	Because	1
+কারনাহানকে	Carnahan	1
+কারনীতি	Policy	1
+কারনে	Because of	1
+কারবিরোধীদের	Prohibitionists	1
+কারাগারে	In prison	1
+কারাভোগ	Imprisonment	1
+কারায়	Because of	1
+কারারুদ	Currudu	1
+কারিটাস	Caritas	1
+কারিটাস-এর	Caritas&#39;s	1
+কারিতাস	Caritas	1
+কারেরও	Carre also	1
+কালক	Tomorrow	1
+কালকাতার	Calcutta	1
+কালেই	In time	1
+কালোবাজারী	Black market	1
+কাসুরির	Casino	1
+কিছুকাল	For a while	1
+কিন-সোভিয়েত	Kin-Soviet	1
+কিরকুক	Kirkuk	1
+কিরকুকের	Kirkuk	1
+কিলোমিটারেরও	Kilometer	1
+কুইচৌ	Quichou	1
+কুইচৌর	Quichour	1
+কুকিস	Cookie	1
+কুকুরটিকে	The dog	1
+কুটের	Cottage	1
+কুন	Koon	1
+কুপ	Coup	1
+কুমারাতুংগার	Kumaratungaar	1
+কুয়াং	Kuang	1
+কুয়াংলিয়ে	Kuanglaiye	1
+কুয়াংলিয়ের	Kuanglian&#39;s	1
+কুয়ালালুম	Kuala Lumpur	1
+কুরেই	Kurai	1
+কুরেই-এর	Querai&#39;s	1
+কুলছাত	Kulachat	1
+কূটনীতিকের	Diplomat	1
+কূটনীতিকেরা	Diplomats	1
+কূটনীতির	Diplomacy	1
+কৃষিক	Peasant	1
+কৃষিতে	In agriculture	1
+কৃষিপ	Agriculture	1
+কৃষিভিত	Farmed	1
+কেই	Whoever	1
+কেউই	No one	1
+কেঁদে	Crying	1
+কেটে	Cut off	1
+কেনাবেচা	Trading	1
+কেব	Cab	1
+কেলকে	Kelke	1
+কেলদের	Kells	1
+কেলে৭.৬	Cale 7.6	1
+কোকাকোলা	Coke	1
+কোটেক	Quotes	1
+কোনভাবেই	In any way	1
+কোনোটা	Somehow	1
+কোনোরকম	Somehow	1
+কোয়ারানটাইন	Quarantine	1
+কোয়ারে	Quaire	1
+কোয়ালিশনকে	The Coalition	1
+কোয়েটার	Quarter	1
+কোরিয়াসহ	Coreyasaha	1
+কোলনের	Colon	1
+কোলোম	Cholom	1
+কোশে	Koshe	1
+কোস	Kos	1
+কোহেন	Cohen	1
+খবরটা	The news	1
+খলভাবে	Gravely	1
+খসড়াটি	The draft	1
+খসড়াটির	Drafting	1
+খাইনি	Did not eat	1
+খাওয়াবে	Feed	1
+খাতে	In the sector	1
+খানকে	Khan&#39;s	1
+খানাছিন	Khanachin	1
+খানের	Khan&#39;s	1
+খাব	To eat	1
+খাবেন	Eat	1
+খায়	Eats	1
+খুইয়েছেন	Lost	1
+খুঁজছেন	Looking for	1
+খুজে	Find	1
+খুরশিদ	Khurshid	1
+খুলনায়	Khulna	1
+খুললেও	Open up	1
+খুলেছে	Opened	1
+খৃস	Grateful	1
+খে	Eat	1
+খেতে	To eat	1
+খেনলি	Cinnamon	1
+খেয়ে	To eat	1
+খেয়েছিল	Had eaten	1
+খেয়ো	Eat	1
+খেলব	Play	1
+খেলাটি	The game	1
+খেলে	Playing	1
+খোঁজার	Find out	1
+খোয়ানোর	Khoanor	1
+খোলাখুলি	Open	1
+খোলামেলা	Open	1
+খোলার	Opening	1
+গকিলোমিটার	Gucillometer	1
+গগৈ	Gogoi	1
+গঙ	Gong	1
+গঠনকে	Formation	1
+গঠনেরও	Formation	1
+গণভোটে	Referendum	1
+গণভোটের	Referendum	1
+গণ-মাধ	Mass media	1
+গতকালের	Yesterday	1
+গতিও	Speed ​​too	1
+গভীড়	To understand	1
+গমেজ	The grasses	1
+গরমে	In the summer	1
+গরেট	Greate	1
+গলজনকভাবে	Glutenously	1
+গহ	Geh	1
+গাজ	Gaz	1
+গাজায়	In Gaza	1
+গাড়িগুলি	Cars	1
+গাড়িগুলো	Cars	1
+গায়ে	On the body	1
+গার	Gare	1
+গিকে	GIKE	1
+গিতে	Sing	1
+গিদের	Gidde	1
+গিয়েছে	Gone	1
+গির	Gir	1
+গীকার	The pledge	1
+গীদের	Gears	1
+গুই	Gui	1
+গুচ	Gucci	1
+গুণগতমান	Quality	1
+গুনগতমান	quality	1
+গুনগতমানের	Quality	1
+গুরুদায়িত	Politely	1
+গুরুমস	Gurumas	1
+গুলগুলো	The balls	1
+গুলিতে	Shot	1
+গুলিবর	Golibir	1
+গুহার	Cave	1
+গৃহপালিত	Pets	1
+গৃহযুদ	Housework	1
+গৃহ-যুদ	House-junk	1
+গেছি	Have gone	1
+গেডি	Geddy	1
+গেরনেই	Guerneye	1
+গেলে	If you do	1
+গেলেও	Even though	1
+গোত	Got	1
+গোপসাগরে	Gopacor	1
+গোলশুন	Goalshun	1
+গোলে	Goals	1
+গোলের	Goal	1
+গৌটা	Gauta	1
+গৌরবময়	Glorious	1
+ঘটনাকে	The incident	1
+ঘটনাগ	Incident	1
+ঘটনাগুলির	Events	1
+ঘটনায়	In the event	1
+ঘটনাস	Events	1
+ঘটবে	Will happen	1
+ঘটল	Happened	1
+ঘটাতে	To cause	1
+ঘটানোয়	To be used	1
+ঘটার	Happen	1
+ঘটেছেঃ	Happened:	1
+ঘতম	The clock	1
+ঘদিনের	Horrible	1
+ঘনতার	Concentration	1
+ঘনিয়ে	Closer to	1
+ঘনীভূতকরণ	Concentration	1
+ঘরগুলো	The houses	1
+ঘরে	At home	1
+ঘরের	The house	1
+ঘাড়ের	Neck	1
+ঘুমোতে	Sleeping	1
+ঘুরে	Turn around	1
+ঘোষণার	Announcement	1
+চত	Four	1
+চতা	Excuse	1
+চতাপমাত	Round about	1
+চতার	Caress	1
+চন	Chan	1
+চয়	Chai	1
+চয়তা	Choice	1
+চয়তার	Elit	1
+চয়ন	Choose	1
+চরমতম	The ultimate	1
+চলগুলিতে	In the running	1
+চলাফেরার	Mobility	1
+চলেইসরাইল	Laurel	1
+চলের১২.৭	12.7 of the wheel	1
+চলো	Come on	1
+চশমার	Glasses	1
+চস	Casa	1
+চাইতেও	Even more	1
+চাইনিজ	Chinese	1
+চাইলেও	If you want	1
+চাংছি	Chanchi	1
+চাদেরকে	Chadar	1
+চাপে	Under pressure	1
+চামাংশেরও	Of the skin	1
+চায়না	China	1
+চায়ের	Excerpt	1
+চারদিন	Four days	1
+চার-পঞ	Four-p	1
+চার-সপ	Four-sop	1
+চালাবার	To run	1
+চালিকা	Driving	1
+চালিয়	Run	1
+চালিয়েছিলো	Has operated	1
+চালের	Rice	1
+চাষের	Cultivation	1
+চিনবে	Recognize	1
+চিয়াওযি	Chiaozi	1
+চিয়াপাও-এর	Of Chiapao	1
+চিয়াপাওয়ের	Chiapaway	1
+চিয়েন	Chien	1
+চিরকালই	Forever	1
+চীন-এস	China-S.	1
+চীন-জাম	China-jam	1
+চীন-বাংলাদেশ	China-Bangladesh	1
+চীন-সহ	Including China	1
+চীনার	Chinese	1
+চীফস	Chiefs	1
+চুইউয়েন	Cheyenne	1
+চুঃ	Chu	1
+চেতনায়	Consciousness	1
+চেতনার	Consciousness	1
+চেপে	Press	1
+চেয়েছিলেন	Wanted	1
+চেয়েছে	Wanted	1
+চেলিন	Chelyn	1
+চোখেই	Eyes	1
+চোখের	Eyes	1
+ছজন	Six	1
+ছড	The roof	1
+ছড়িয়েছে	Spread out	1
+ছাউনির	The camp	1
+ছাও	Shout	1
+ছাকৃত	Bunch	1
+ছাকে	Chha	1
+ছামতো	Chomato	1
+ছাসেবক	Sasabeq	1
+ছাসেবকদের	Shade	1
+ছিংতাও	Cage	1
+ছিংহাই	Chinghai	1
+ছিটিয়ে	Sprinkle	1
+ছিদ	The chest	1
+ছিনহাই	Honeymoon	1
+ছিনিয়ে	Snatched	1
+ছিল৬.৭	Was 6.7	1
+ছুঁড়েছিলেন	Threw	1
+ছেয়ে	Covered	1
+ছেলেকে	Boy	1
+ছেলেটি	The boy	1
+ছেলেটিকে	The boy	1
+ছেলেমেয়েকে	Children	1
+ছোঁড	Clutches	1
+ছোঁড়া	Throws	1
+ছোঁড়ে	Throws up	1
+ছোটো-মাথার	Small-head	1
+জঁ	Zinc	1
+জকরে	Junker	1
+জগুলোর	Get it	1
+জটিলতার	Complexity	1
+জড়িয়ে	Engulf	1
+জড়ো	Gather up	1
+জনগণকে	The people	1
+জনসাধারণের	Public	1
+জনে	Born	1
+জয়েন	Jain	1
+জরিপের	Survey	1
+জরীপে	Survey	1
+জরূরী	Urgency	1
+জলবসন	Waterfall	1
+জলমগ	Watering	1
+জলাই	Watering	1
+জলের	Water	1
+জাকভাবে	Zakky	1
+জাকিয়ে	Zakiye	1
+জাজিরা	Jazira	1
+জাজিরার	Jazirah	1
+জানকার	Knower	1
+জানত	Knew about	1
+জানমালের	Life and property	1
+জানসেন	Janensen	1
+জানাই	Let me know	1
+জানাতো	Wanna know	1
+জানাব	Tell me	1
+জানাবার	To inform	1
+জানাবেন	Please tell	1
+জানায়না	Do not tell	1
+জানাল	Say it	1
+জানালাটা	The window	1
+জানালে	Tell me	1
+জানো	You know	1
+জাপানও	Japan also	1
+জামফারা	Jamphara	1
+জামবিয়ার	Jambiar	1
+জামাও	Cloth	1
+জামাকাপড	Clothes	1
+জামার	Dressing up	1
+জায়গাগুলি	Places	1
+জায়গাটাকেও	Place also	1
+জায়েদ	Zayed	1
+জাহাজটিকে	The ship	1
+জাহাজে	On the ship	1
+জাহার	Zahara	1
+জিঞ	Ji	1
+জিনিয়ার	Genius	1
+জিনিসগুলি	Things to do	1
+জিনিসগুলোর	Things	1
+জিমবাবুয়ের	Jimbauauer	1
+জিহ	Jih	1
+জীন-ক	Gene-A	1
+জীবন-যাপন	Living life	1
+জীবনযাপনে	Living life	1
+জীল	Jill	1
+জুলফিকার	Zulfiqar	1
+জেগে	Wake up	1
+জেগোভিনা	Jagovina	1
+জেগোভিনার	Jigowner&#39;s	1
+জেটটি	The jet	1
+জেণ	Life	1
+জেনাঃ	Adultery	1
+জেনিফার	Jennifer	1
+জেনেছে	Know	1
+জেপেলিন	Zeppelin	1
+জেরও	Zeroe	1
+জেরুসালেমে	In Jerusalem	1
+জেরোম	Jerome	1
+জেলবন	Jelaban	1
+জেলা-শহরের	District-city	1
+জেহাঙ	Jehng	1
+জোটনিরপেক	Jotterepek	1
+জোটে	Alliance	1
+জোডিয়াক	Jodiac	1
+জোহারে	Joharee	1
+ঝটিকা	Flicker	1
+ঝড	The jump	1
+ঝড়পীড়িত	Stormy	1
+ঝাড়	Bush	1
+ঝামেলার	Trouble	1
+ঝুঁকিপূর	Risky	1
+ঞকে	J.K.	1
+ঞাতসারে	In the world	1
+ঞানবোধ	Cognition	1
+ঞানিকদের	Junkies	1
+ঞানিকরা	Junkies	1
+ঞাপনের	To check	1
+ঞাস	Hi	1
+ঞাসাবাদ	Jisabad	1
+ঞেস	Jesus	1
+ঞোচিত	Added	1
+টই	Tie	1
+টকেও	Make sure	1
+টত	Plot	1
+টতই	Tote	1
+টতার	Tater	1
+টধর	Shit	1
+টভাবে	Tape	1
+টভাবেই	Tuckie	1
+টলোকের	The towers	1
+টাইনে	Tine	1
+টাওয়ার	Towers	1
+টাকার	Money	1
+টাগন	Tugon	1
+টাগনে	Tugane	1
+টাট-আনসাইগার	Untouchables	1
+টানটা	Tension	1
+টানাপোড	Tanapod	1
+টানার	Stretch	1
+টানেলে	In tunnel	1
+টানেলের	The tunnels	1
+টাফসের	Tauf&#39;s	1
+টারও	Tao	1
+টারথার	Tirtar	1
+টারনেট-বিরুদ	Tornet-birud	1
+টিকে	Survival	1
+টিকের	Ticker	1
+টিটিউট	Tutorial	1
+টিবাইজুকা	Tbilisi	1
+টিমে	Team	1
+টিহীনতা	Tinnyness	1
+টেট-এর	Tate&#39;s	1
+টেটর	Tater	1
+টেন	Ten	1
+টেনে	Dragging	1
+টেভফির	Tavfey	1
+টেমেণ	Tamen	1
+টেলিভিশনের	Television	1
+টেলিসিনকোর	Telescinco	1
+টেশন	Tason	1
+টেশনটা	Tausana	1
+টোনি	Tony	1
+টোনিয়া	Tonia	1
+টোনিয়ার	Tania	1
+টোনিয়ারআর	TonerR	1
+টোবরপেইচিংয়ে	Toberpatching	1
+টোর	Tor	1
+ঠাতা	Lactation	1
+ঠিকমতই	Right	1
+ঠীকে	Keep silent	1
+ঠীপতিদের	The chiefs	1
+ঠেকাতে	To prevent	1
+ঠেকানোর	To stop	1
+ঠেলার	Pushing	1
+ঠেলে	Push up	1
+ড২০	Dr.	1
+ডকেও	Docko	1
+ডজনেরও	Dozen	1
+ডণে	Toothpaste	1
+ডণের	Donation	1
+ডতর	Datour	1
+ডভাবে	Daddy	1
+ডয়নের	Dione	1
+ডসে	Dos	1
+ডা	Dr.	1
+ডাউনার	Downtown	1
+ডায়মান	Daimann	1
+ডায়রিয়ায়	Diary	1
+ডিক	Dick	1
+ডিকাফ	Dicaf	1
+ডি-কে	D	1
+ডিজাইনার	The designer	1
+ডিপ	Deep	1
+ডি-র	D	1
+ডিলে	In dale	1
+ডিসট	The disk	1
+ডু	Do	1
+ডেইলী	Daily	1
+ডেট	Date	1
+ডেরও	Dare too	1
+ডেস	Des	1
+ডোনিস	Dennis	1
+ঢুকে	Get in	1
+ঢেকে	Cover	1
+ঢেলে	Poured	1
+ঢোকার	To enter	1
+ণগঠন	The collection	1
+ণগঠনের	Introduction	1
+ণতম	Fresh	1
+ণতায়	At the moment	1
+ণনাওশুনেছেন	I&#39;m sorry	1
+ণয়ের	My friend	1
+ণরূপে	As it is	1
+তউত	Taut	1
+তএবং	And	1
+তঃপ	Tapping	1
+তকতা	Squeak	1
+তকতার	Crackdown	1
+তকর	Turtle	1
+তকরণ	Odd	1
+তকরনের	For example	1
+তকারীদের	Shooters	1
+তকারীরা	The guards	1
+তকালে	At that time	1
+তকেও	Still	1
+তগুলো	Those	1
+তঘাতকের	The killer	1
+তচাপে	Tension	1
+ততই	More	1
+ততক	So much	1
+ততটা	The more	1
+ততপক	Energetic	1
+তদারকি	Supervision	1
+তদের	Them	1
+তনা	Yours	1
+তবয়স	Twenty four	1
+তবায়নে	Tawnyane	1
+তমালার	Tamala	1
+তরকোরিয়া	Tukoriya	1
+তরঙ	Wave	1
+তরণের	Emersion	1
+তরদিক	Trim	1
+তরপূর	Prefix	1
+তরায়	Rare	1
+তরিতহবে	The triangle	1
+তরীপে	Taripe	1
+তরেবিশেষ	Cemetery	1
+তাইওয়ানবাসী	Taiwanese people	1
+তাইওয়ানী	Taiwanese	1
+তাইন	Tine	1
+তাইনীরা	Tinyers	1
+তাইপেই	Taipei	1
+তাইপেইয়ের	Taipei	1
+তাইপেতে	Taipei	1
+তাঁদেরকেই	Theirs	1
+তাকান	Look at	1
+তাকিয়ে	Looked at	1
+তাগ	Aim	1
+তাড়াতাড়িভাবে	Soon	1
+তাড়াহুড়া	Haste	1
+তাড়াহুড়ো	Rush	1
+তাদেরকে	To them	1
+তানবুল	Tanabul	1
+তানবুলের	Tanabul	1
+তানীদের	The nail	1
+তাবকে	Taub	1
+তাবগুলো	TABANS	1
+তাবপেশ	TABPS	1
+তাবে	Tabe	1
+তারই	That&#39;s it	1
+তারকে	The star	1
+তারগুলোর	Cables	1
+তারাও	They too	1
+তারিফায়	Regards	1
+তারেরবিরোধীতা	Anti-clonic	1
+তালিকাভুক	Catalog	1
+তালুতে	Talent	1
+তালেবান	Taliban	1
+তাসংস	Sage	1
+তাহব	Tahab	1
+তাহরির	Tahrir	1
+তিউনিসিয়াকে	Tunisia	1
+তিকরিতের	Tikrit&#39;s	1
+তিকে	It	1
+তিগতভাবেও	As well as	1
+তিগুলির	Theirs	1
+তি-জনিত	Tie-up	1
+তিটি	It is	1
+তিটির	The arrow	1
+তিদেরকে	Yours	1
+তিন-	Three-	1
+তিনকে	Three	1
+তিন-চার	Three-four	1
+তিনজন	Three	1
+তিনমিনিট	Three minutes	1
+তিনশোটিরও	Three hundred	1
+তিনিয়দের	Sheyad&#39;s	1
+তিনী	The story	1
+তিনীরা	Threes	1
+তিনীরাই	Three	1
+তিনে	Three	1
+তিপুর	Thipur	1
+তিবিশেষের	To the other	1
+তিমালিকানাধীন	Under the Timelines	1
+তিরক	Tirak	1
+তি-রক	Two-rock	1
+তিস	Tees	1
+তি-স	Tie	1
+তীকালীণ	Okay	1
+তীরের	The arrow	1
+তুং	Tung	1
+তুপ	Tup	1
+তুম	You are	1
+তুম-এ	You in	1
+তুর	Tur	1
+তুলেছিলেন	Picked up	1
+তুলেছিলো	Took up	1
+তুলেন	Raise	1
+তৃক	Tart	1
+তৃতা	Grass	1
+তেআস	Teas	1
+তেই	That&#39;s it	1
+তেজনাকর	Watchful	1
+তেজনামুখর	Thunderstorm	1
+তেজনাসংকূল	Telecommunication	1
+তেজিত	Lit up	1
+তেলে	Oil	1
+তেলের	Oil	1
+তৈলক	Oils	1
+তৈলখনিগুলিতে	Oilfields	1
+তোমের	You	1
+তোয়ালে	Towels	1
+তোয়ালেগুলো	Towels	1
+থও	Tho	1
+থকভাবে	Thoroughly	1
+থগৃধ	Thug	1
+থ-জড়িত	Th-involved	1
+থতা	THAT	1
+থনকারী	Police officer	1
+থবছর	In the beginning	1
+থ-বছরে	Th-year	1
+থবার	Thabar	1
+থবিদ	Thudd	1
+থভাবে	By the way	1
+থমকে	Stop	1
+থ-রাজনৈতিক	Th-Political	1
+থলগুলিকে	Thongs	1
+থলেই	The pouch	1
+থসংস	Thames	1
+থ-সাউথ	Th-south	1
+থ-সাহায	Th-help	1
+থা---	Tha ---	1
+থাকব	Will be	1
+থাকলেও	Even though	1
+থাকলো	Remained	1
+থাগুলিকে	To the thieves	1
+থাগুলির	Thaas	1
+থাটা	Thaata	1
+থানটি	Police station	1
+থানীয়ভাবে	Thanh tha	1
+থাপকের	Thapake	1
+থাপনাকে	Thanx	1
+থামগুলোর	Columns	1
+থামাও	Stop it	1
+থামাতে	To stop	1
+থায়ান	Thayan	1
+থাসমুন	Thesmun	1
+থিতিই	Thattie	1
+থিতিতেও	In the meantime	1
+থিতিমোকাবেলা	Thetimokabella	1
+থিতিশিলতার	Theatimity	1
+থিতিশীলতাকে	Theatimality	1
+থিতিশীলপ	Theatiselip	1
+থিতিশীলসম	The thirty-three	1
+থিতিস	Thetis	1
+থিয়ান	Thion	1
+থিয়েনচিন	Theinchin	1
+থিয়েনচিনে	Theinchin	1
+থিয়েনচিনের	Theinchin	1
+থিরতা	Thirata	1
+থিরীকৃত	Thrived	1
+থীপ	The thief	1
+থুরুজ	Thuruzz	1
+থেমে	Stop	1
+থেরই	Theere	1
+থেরাপি	Therapy	1
+দখলদারিত	Occupied	1
+দপ	Dap	1
+দফতরের	Office	1
+দমনের	Suppression	1
+দয়	Kindness	1
+দরজাটি	The door	1
+দরটি	Rate	1
+দলগুলিকে	Parties	1
+দলটি	The team	1
+দলটির	The team	1
+দলীয়	Party	1
+দশকে	In the decade	1
+দশর	Ten	1
+দাঁড়	Standing	1
+দাঁড়াতে	Stand up	1
+দাখিলের	Submit	1
+দানকারী	Donor	1
+দামকে	The price	1
+দামাস	Damas	1
+দায়ভাগ	Non-negotiable	1
+দায়ভাগের	Dividing	1
+দারফুর	Darfur	1
+দারফুর-এ	In Darfur	1
+দারফুর-এর	Darfur&#39;s	1
+দারফুরে	Darfur	1
+দারফুরের	Darfur	1
+দারী	Dari	1
+দিতেও	Give it	1
+দিনই	Day is the day	1
+দিনটিকে	The day	1
+দিন-ব	Day-to-day	1
+দিপলোমাতিক-এর	Dioplomatic	1
+দিব	Will give	1
+দিবসের	Day of the Day	1
+দিয়েই	By the way	1
+দিয়েও	Through	1
+দিয়েছিলো	Gave it	1
+দিলেন	Gave to	1
+দুইজন	Two	1
+দুইটি	Two	1
+দুঃখজনকভাবে	Sadly	1
+দুজনে	Both of them	1
+দুজনের	Both of them	1
+দুধরনের	Two way	1
+দুনিয়ায়	In the world	1
+দুযোর	Duo&#39;s	1
+দুরুহ	The groom	1
+দুশোরও	Two hundred	1
+দুষ	Dosha	1
+দূতকে	The angel	1
+দূতাবাসগুলি	Embassies	1
+দূতাবাসগুলিতে	In the embassies	1
+দূতাবাসটি	The embassy	1
+দূতাবাসে	Embassy	1
+দূতের	The ambassador	1
+দূরপাল	Telapoli	1
+দূরের	Away	1
+দূষণমুক	Pollution	1
+দৃঢতার	Firmness	1
+দেই	Give me	1
+দেউলিয়া	Bankrupt	1
+দেওয়ালে	Wall	1
+দেখছি	I see	1
+দেখছে	Watching	1
+দেখছেন	Watching	1
+দেখবে	Will see	1
+দেখবো	Will see	1
+দেখার	Visit	1
+দেখিনি	Did not see	1
+দেখিয়ে	By showing	1
+দেখুন	See	1
+দেখো	Look at	1
+দেন	Give it	1
+দেনাও	Debt	1
+দেবার	Giving up	1
+দেয়ালে	On the wall	1
+দেরোত	Derrot	1
+দেশও	Country	1
+দেশকে	Country	1
+দেশগুলোয়	In countries	1
+দেশগুলোসহ	Including countries	1
+দেশিত	Desired	1
+দেশী-বিদেশী	Domestic and foreign	1
+দেশীয়	Native	1
+দেশেই	In the country	1
+দেস	Des	1
+দেহও	Body too	1
+দেহযন	Body	1
+দেহরক	Erythema	1
+দৈনিককে	Daily	1
+দৈনিকের	Daily	1
+দোংসম	Dongsham	1
+দোব	Daw	1
+দোষমুক	Blame	1
+দোষিদের	The guilty	1
+দোহা-র	Doha&#39;s	1
+দৌরি	Dauri	1
+ধজনিত	Rosy	1
+ধজাহাজের	Flames	1
+ধনকারী	The rich	1
+ধব	Dhab	1
+ধবদের	Dhabad	1
+ধবাজ	Flee	1
+ধবাদী	Goddess	1
+ধবিমান	Regulating	1
+ধবিমানকে	The rivalry	1
+ধরপাকড়	Arrest	1
+ধরেছেন	Got it	1
+ধাঁচে	In style	1
+ধাদের	Dhadar	1
+ধানকারী	Paddy	1
+ধাপরাধের	Criminals	1
+ধাবী	Dhobi	1
+ধারণাই	The idea	1
+ধারনাও	Ideas too	1
+ধারার	Section of	1
+ধারিতপরিকল	Figuratively	1
+ধিজীবি	Drown	1
+ধিমান	High and mighty	1
+ধীশক	Dashak	1
+ধুবান	Smell	1
+ধুর	Shit	1
+ধেও	Hold on	1
+ধোয়া	Wash	1
+নও	No	1
+নং	No.	1
+নকশার	Design	1
+নকসা	Naxa	1
+নগঠনের	Cash	1
+নগরীতে	In the city	1
+নগরীর	Of the city	1
+নগুলো	Nine	1
+নজন	Ninja	1
+নটা	Nata	1
+নড	Node	1
+নতদেশগুলো	The lower courts	1
+নতদেশগুলোর	Lowering the Neighbors	1
+নতিতে	In progress	1
+নতিস	Nautis	1
+নতী	Ninety	1
+নথিপত	Documented	1
+নদ-নদীর	River-river	1
+নন	Non	1
+নমত	Namat	1
+নমূলক	Native	1
+নয়জন	Nine	1
+নয়ণ	Eyes	1
+নয়ণের	Eyebrow	1
+নষ	Pollution	1
+নাইজেরিয়ার	Nigeria	1
+নাইপার	Napier	1
+নাইরুবি	Nairobi	1
+নাইরোবিতে	In Nairobi	1
+নাগনিক	Naginal	1
+নাগরিককেও	Citizens also	1
+নাগরিকরা	Citizens	1
+নাগিব	Naguib	1
+নাজাফে	Najaf	1
+নাজুক	Delicate	1
+নাটো	NATO	1
+নানদেজ	Nandez	1
+নানাধরনের	Variety	1
+নানো	Nano	1
+নাবিককে	The sailor	1
+নাবিহ	Nabih	1
+নাভে-র	Nave&#39;s	1
+নামও	Name too	1
+নামের	Name	1
+নাহ	No	1
+নাহলে	Otherwise	1
+নিউমুরিং	Newmooring	1
+নিংড়িয়ে	Niggle	1
+নিঃসরন	Emission	1
+নিকটতম	The closest	1
+নিকতবর	Close	1
+নিখুঁতভাবেই	Absolutely	1
+নিগ	Nig	1
+নিচের	Below	1
+নিজেও	Yourself	1
+নিজেদেরই	Themselves	1
+নিবন	Nin	1
+নিবিড়ভাবে	Intensely	1
+নিমির	Nimi	1
+নিয়মের	The rules	1
+নিয়েছি	Have taken	1
+নিরব	Silent	1
+নিরামিশ	Neutral	1
+নিরাশাজনক	Hopeless	1
+নিরোধের	Severance	1
+নিল	Neil	1
+নিলামটি	The auction	1
+নিলেও	Neilo	1
+নিষেধঃ	Prohibition	1
+নিহতদের	The dead	1
+নীতকরার	Picnic	1
+নীতিগুলি	Policies	1
+নীতি-মামলায়	In the case of the policy	1
+নীতি-মামলার	Policy-case	1
+নীতিমালার	Policy	1
+নীয়	New	1
+নীরবতার	Silence	1
+নু	Nu	1
+নুওয়েকে	Nouveau	1
+নেকডেট	Nakedad	1
+নেতাকে	The leader	1
+নেতৃতাধীন	Leadership	1
+নেপালে	Nepal	1
+নেব	Take it	1
+নেভাদায়	Nevada	1
+নোক	Noke	1
+নো-কারাবাখ	No-Karabakh	1
+নোটটি	The note	1
+নোবডি	Nobody	1
+নৌকাটিকে	The boat	1
+নৌকায়	In the boat	1
+নৌ-স	Navy	1
+পও	Paw	1
+পটকাবাজি	Potting	1
+পটভূমিতে	In the background	1
+পড়েছিল	Read out	1
+পড়েছিলেন	Have read	1
+পড়েছেন	Have read	1
+পথকে	The way	1
+পথগুলির	Paths	1
+পথনির	Porteri	1
+পথেই	On the way	1
+পদযাত	Stepped down	1
+পদার	Poster	1
+পবর	Pabar	1
+পবের	Pob	1
+পয়ঁত	Dexterity	1
+পযর	Wait	1
+পয়েছেন	Got it	1
+পরই	Afterwards	1
+পরকে	Afterwards	1
+পরতে	To wear	1
+পরলে	Put on	1
+পরিনাম	The result	1
+পরিপন	Metabolism	1
+পরিবতর	Moreover	1
+পরিমানে	The amount	1
+পরিমার	Amounts	1
+পরিসরে	Range	1
+পরেন	Wear	1
+পশুচিকিত	Animalistic	1
+পশুরা	Animals	1
+পস	POS	1
+পহাড়ী	Pahari	1
+পাইনি	Did not get it	1
+পাইলটের	Pilot	1
+পাউন	Pawn	1
+পাওয়েলের	Powell	1
+পাঁচটা	Five	1
+পাঁচবার	Five times	1
+পাক-আজার	Pak-azar	1
+পাকড়াও	Caught	1
+পাক-ভারত	Pak-India	1
+পাকিন	Pakin	1
+পাখিও	Birds too	1
+পাচ	Five	1
+পাচারকারী	Trafficking	1
+পাঞ	Pae	1
+পাঠাতে	To send	1
+পাঠানোর	To send	1
+পাঠিয়েছিল	Sent	1
+পাঠিয়েছে	Sent	1
+পাতের	The shoes	1
+পাথরের	Stone	1
+পাদকীয়	Footsteps	1
+পাদনক	Designer	1
+পাদনে	In the foot	1
+পানিও	Water also	1
+পানিটি	The water	1
+পানিতে	In the water	1
+পানিপ	Waterproof	1
+পানিবাহিত	Water-driven	1
+পানিয়	Drinkey	1
+পাবার	Getting	1
+পাবেই	Will find	1
+পাবো	Get it	1
+পায়ের	Feet	1
+পারকে	Parc	1
+পারগ	Parag	1
+পারবেনা	Can not	1
+পারর	Parr	1
+পারল	Parl	1
+পারলাম	Got me	1
+পারলে	If possible	1
+পারলো	Parello	1
+পালনে	To celebrate	1
+পাহাড়ের	The mountains	1
+পি	P	1
+পিউটারে	On the computer	1
+পিওডব	Podb	1
+পিকেকে	PKK	1
+পিটিয়ে	Beaten	1
+পিঠে	Back on	1
+পিতামাতার	Parent&#39;s	1
+পিশিন	Pisin	1
+পীকার	Poker	1
+পীদের	Piar	1
+পুঁতে	The buttocks	1
+পুড়িয়ে	Burned	1
+পুড়িয়েছে	Burned down	1
+পুনরুদ	Redemption	1
+পুনরেকত	Reworked	1
+পুরোপুরিভাবে	Perfectly	1
+পুলিশি	Police	1
+পুলী	Puli	1
+পূবার	East	1
+পৃথিবীকে	The world	1
+পৄথিবী	Family	1
+পৄথিবীর	The church	1
+পেটে	Abdomen	1
+পেটের	Abdominal	1
+পেডো	Pedro	1
+পেতে	Get out	1
+পেন-এর	The Pen	1
+পেনীয়	Peníne	1
+পেয়েছি	Got it	1
+পেয়েছিলাম	Got it	1
+পেয়েছিলেন	Got it	1
+পেরেছি	Made it possible	1
+পেরেছে	Have helped	1
+পেরেছেন	Have done	1
+পেলাম	Got it	1
+পেলেন	Got it	1
+পেশাদারিত	Professionals	1
+পোড়া	Burns	1
+পোনার	Ponar	1
+পোপকে	The pope	1
+পোরেশনের	Porsche	1
+পোলিহেনল	Polihynle	1
+পোলিহেনলও	Polihynle	1
+পৌঁচেছে	Reaching	1
+পৌঁছলেন	Arrived	1
+পৌঁছাবার	To reach	1
+পৌঁছেছিল	Reached	1
+ফটোগ	Photos	1
+ফয়সাল	Faisal	1
+ফরেন	Foreign	1
+ফরেস	Fores	1
+ফলাফলকে	Results of	1
+ফলেই	As a result	1
+ফাতোস	Phatos	1
+ফারহাং	Farhang	1
+ফারহাং-এর	Farhang&#39;s	1
+ফিজিক	Physics	1
+ফিরবে	Come back	1
+ফিরিয়ে	Return	1
+ফিলিপাইনস	Philippines	1
+ফিলিপিনসের	The Philippines	1
+ফিশার-এর	Fischer&#39;s	1
+ফিশারও	Fischer	1
+ফিশারের	Fischer	1
+ফিশের	Fish	1
+ফীতি	Note	1
+ফুটনল	Footle	1
+ফুটে	Blooms	1
+ফুরিত	Full moon	1
+ফুরিয়ে	Run out	1
+ফুলের	Of flowers	1
+ফুসফুসের	Lungs	1
+ফেলতে	To throw	1
+ফেললে	Throw down	1
+ফেলেছি	We have dropped	1
+ফেলেছেন	We have dropped	1
+ফেলেন	Throw away	1
+ফোনটার	Phone	1
+ফোনে	On the phone	1
+ফোরণ	The fron	1
+ফোরণটি	The floor	1
+ফোসট	Phoset	1
+ফৌজে	Fouge	1
+ফৌজের	The fog	1
+ব-	B-	1
+বইছে	The book	1
+বইরুতে	BookRate	1
+বংকের	The bank	1
+বংশবৃদ	Breed	1
+বংসকারী	The baker	1
+বংসস	BONGS	1
+বকশিস	Bakshish	1
+বঙ	Bang	1
+বজন	Weighing	1
+বজনকে	Bazhen	1
+বজনদের	Reserves	1
+বতমালার	Batala	1
+বদলানোর	Change	1
+বদাই	Shaw	1
+বদানের	Badan	1
+বদাপ	Badaap	1
+বদেশবাসীদের	Foreigners	1
+বদেশের	The countryside	1
+বনদ	Banad	1
+ববহ	Sleek	1
+বভারতের	Bawarat	1
+বয়ং	Bygone	1
+বয়ের	Wedding	1
+বয়েসের	Old age	1
+বরাক	Barak	1
+বরাজনীতির	Everywhere	1
+বরিত	Berat	1
+বরীর	Bari	1
+বলছো	Say you	1
+বলতাই	Boltai	1
+বলবে	Will say	1
+বলবেন	Tell me	1
+বলবো	Will say	1
+বল-যদিও	Ball-though	1
+বলিনি	Did not say	1
+বলেই	That&#39;s because	1
+বলেননি	Did not say	1
+বশুর	Armor	1
+বসতবাড়ির	Homestead	1
+বসনিয়ায়	In Bosnia	1
+বসনিয়ার	Bosnia and Herzegovina	1
+বসনিয়া-হ	Bosnia-Ace	1
+বসনিয়া-হের	Bosnia-Herre	1
+বসে	Sit down	1
+বহিষ	Exterior	1
+বাইজান	Byzan	1
+বাইজানের	Biasan	1
+বাইডো	Baido	1
+বাইরেও	Outside too	1
+বাইশটি	Twenty two	1
+বাংলাদেশ-চীন	Bangladesh-China	1
+বাঁকে	Left	1
+বাঁচাতে	To save	1
+বাঁদিকে	To the left	1
+বাঁধছে	Binding	1
+বাগদাদকে	Baghdad	1
+বাগদাদে	In Baghdad	1
+বাগমতি	Gossip	1
+বাগাড	Bagad	1
+বাঘের	Tiger	1
+বাচনটিকে	Speech	1
+বাচনেও	Be sure to	1
+বাছেন	Sitting	1
+বাঞ	Bay	1
+বাড়লে	Increasingly	1
+বাড়াতে	Raise	1
+বাড়িঘর	The house	1
+বাড়িতে	At home	1
+বাড়িয়ে	Increasingly	1
+বাণীতে	In the verse	1
+বাতাশ	Dessert	1
+বাতাসে	In the air	1
+বাধীনতাবিহীন	Uninterrupted	1
+বাধীনভাবে	Obstructed	1
+বানভাসি	Banawasi	1
+বাবধায়ক	Abbot	1
+বাবামাকে	Parents	1
+বাবামায়েরা	Parents	1
+বাবামার	Parents	1
+বায়ুর	Wind	1
+বায়ুশক	Airspace	1
+বারদারাশ	Bardarash	1
+বারভাঙ	Barbagh	1
+বারাই	Barai	1
+বারান	Varanan	1
+বালানি	Balani	1
+বালোচিস	Balochis	1
+বাসকেও	Buses too	1
+বাসগ	The bus	1
+বাসপ	Basup	1
+বাসযাত	Basavat	1
+বাসযোগ	Settlement	1
+বাসীরা	Dwellers	1
+বাহরিন	Bahrain	1
+বাহিনীতে	In the army	1
+বাহুর	Arm	1
+বিকে	Bike	1
+বিকের	Baker	1
+বিঘ	Bigha	1
+বিচারাধীন	Pending	1
+বিচারের	Trial	1
+বিজয়ের	Victory	1
+বিতকরণ	Distribution	1
+বিতরণের	Distribution	1
+বিতা	The truth	1
+বিতাড়িত	Deported	1
+বিতের	The verdict	1
+বিধাগ	Rape	1
+বিনষ	Rigidity	1
+বিনিময়ে	In return	1
+বিপণিকেন	Marketing	1
+বিপদসীমার	Danger zone	1
+বিপদে	In danger	1
+বিপদের	Danger	1
+বিপর	Inverted	1
+বিপুলমাত	Huge math	1
+বিবেকানন	Vivekanan	1
+বিবেচনাবোধের	Consciousness	1
+বিবেচনায়	Considering	1
+বিভাজনের	The division	1
+বিমনবন	Escape	1
+বিমানও	Airplane	1
+বিমানক	Aircraft	1
+বিমানগুলি	Flights	1
+বিমানটিকে	The plane	1
+বিমানটির	The plane	1
+বিমানবন	Airbus	1
+বিমানবাহিনীর	Air force	1
+বিমানসাহায	Air travel	1
+বিমানহানায়	Airplane	1
+বিমানহানার	Drone	1
+বিমানে	On the plane	1
+বিমানের	Aircraft	1
+বিয়	Bai	1
+বিয়েরডেলকে	Bridaldale	1
+বিরাগই	Aversion	1
+বিরাটসংখ	Large number	1
+বিরাটাকারের	Big bang	1
+বিরূদ	Brewing	1
+বিরোধিতাকারী	Opponent	1
+বিলক	Lilac	1
+বিলে	Bill	1
+বিলোপের	Abolition	1
+বিশতম	The twenty-first	1
+-বিশিষ	-Bishish	1
+বিশৄঙ	Bishang	1
+বিশেষের	Specialty	1
+বিশোধণ	Purification	1
+বিষবিজ	Poisonous	1
+বিষয়গুলির	Things	1
+বিষয়ের	The subject	1
+বিসফোরণে	Blizzard	1
+বিহাররাজ	Viharaja	1
+বিহারে	In Bihar	1
+বিহারের	Bihar	1
+বীকারের	Bidding	1
+বীরের	Heroes	1
+বুকে	Chest	1
+বুঝাবুঝি	Understanding	1
+বুঝিয়ে	Understanding	1
+বুড	Bud	1
+বুন	Bone	1
+বুনোপ	Roost	1
+বুলেটিন	Bulletin	1
+বুশার	Bushar	1
+বৃটেন	Britain	1
+বৃটেনে	In Britain	1
+বৃটেনেও	In Britain also	1
+বৃটেনের	Britain	1
+বেআইনীভাবে	Unlawfully	1
+বেংগল	Bongal	1
+বেকেট	Beckett	1
+বেগজনক	Velocity	1
+বেগের	Speed	1
+বেড	Bed	1
+বেড়	The fence	1
+বেড়াতে	To visit	1
+বেড়াবেন	Shuffle	1
+বেবি	Baby	1
+বেরও	Get out	1
+বেরিয়ে	Out	1
+বেরোতে	Get out	1
+বেলুচিস	Baluchis	1
+বেলের	Bell	1
+বেশিজন	More	1
+বেশির	Most of them	1
+বেশীদিন	Long days	1
+বেশীর	Most of them	1
+বেষন	Sausage	1
+বেষী	Bassi	1
+বেসলান	Baselen	1
+বৈরশাহী	Birshahi	1
+বৈরুতের	Beirut&#39;s	1
+বো	B	1
+বোংজু	Bongzhou	1
+বোছি	Bovine	1
+বোডিয়া	Bodia	1
+বোত	Bout	1
+বোধহয়	Maybe	1
+বোয়	Booy	1
+বোয়াস	Boas	1
+ভধারণকালে	During Bhadkan	1
+ভধারণের	Bhadankaran	1
+ভবতী	Bhavati	1
+ভবতীকে	Bhavati	1
+ভবতীদের	Bhavatidera	1
+ভবতীর	Bhavati	1
+ভবতীরা	Bhavatira	1
+ভবতীরাই	Bhabtirai	1
+ভবনা	Bhabna	1
+ভবনে	In the building	1
+ভয়ংক	Horror	1
+ভয়ঙ	Fright	1
+ভয়ানক	Terrible	1
+ভয়াবহ	Horror	1
+ভয়ের	Scary	1
+ভয়েস	Voice	1
+ভরছিল	Begged	1
+ভরার	Fill out	1
+ভাইদের	Brothers	1
+ভাইয়ের	Brother	1
+ভাইরাসটিই	The virus is the same	1
+ভাইরাসের	Virus	1
+ভাইস-চ	Vice-Ch	1
+ভাগাভাগির	Share	1
+ভাগে	Part	1
+ভাড	Vaude	1
+ভাবছি	I wonder	1
+ভাবছিলাম	I was thinking	1
+ভাবধারায়	Ideas	1
+ভাবনাময়	Thoughtful	1
+ভাবাই	Do you think	1
+ভাবি	I think	1
+ভাবী-মায়েরা	Future mothers	1
+ভাবেন	Folks	1
+ভামুনদিলা	Bhumundila	1
+ভারতও	India also	1
+ভারত-নিয়ন	India-Neon	1
+ভালই	Well	1
+ভালবাসি	Love	1
+ভালবাসেন	Love	1
+ভালেন	Wellen	1
+ভালোবাসার	Love	1
+ভালো-মন	Good mind	1
+ভাষান	The language	1
+ভাষাভাষা	Language Language	1
+ভিটো	Vito	1
+ভিতরের	Inside	1
+ভিতসোরেক	Vyssherek	1
+ভিদের	Vide	1
+ভিনসেন	Vinsen	1
+ভিয়েতনামী	Vietnamese	1
+ভিয়েনটিয়ানে	Vientiane	1
+ভিয়েরো	Viatoro	1
+ভিসে	In the vicinity	1
+ভুগছিলেন	Was suffering	1
+ভুগলেও	Even though	1
+ভুট	Bhoot	1
+ভুলতে	Forget it	1
+ভুললে	Forget it	1
+ভূ-	Geo-	1
+ভূকম	Bhukkam	1
+ভূগতে	In geography	1
+ভূতভাবে	Ghostly	1
+ভূতাত	Ghost	1
+ভূপাতিত	Underground	1
+ভূভাগীয়	Landslide	1
+ভূমিকম	Earthquake	1
+ভূমিকাকে	The role of the role	1
+ভূমির	Land	1
+ভেঙে	Broke up	1
+ভেঙেছে	Broke up	1
+ভেবে	Think about	1
+ভেবেছিলাম	I thought	1
+ভের	Verne	1
+ভেলেকে	Volekay	1
+ভেস	Ves	1
+ভোগেন	Suffer	1
+ভোটারকেই	Voterikei	1
+ভোটারদের	Voters	1
+ভোটাররা	Voters	1
+ভোলকারের	The vaulters	1
+মঁদ	The mound	1
+মকে	Mackay	1
+মগত	Content	1
+মগোপন	Magogan	1
+মঘাতি	Mortal	1
+মঘাতী	The deadly	1
+মটে	The Mat	1
+মতভেদও	Disagreements	1
+মতোই	Similar to	1
+মনঃকষ	Mind	1
+মনের	Mind	1
+মনোনয়নকে	Nomination	1
+মনোবলের	Morale	1
+মবধির	Maddi	1
+মবোধ	Mind	1
+মরণসভায়	In mortuary	1
+মরনীয়	Maryani	1
+মরসুমের	Season	1
+মরুভুমিতে	In the desert	1
+মরুভূমির	The desert	1
+মরোগী	Mortal	1
+মলনে	Maine	1
+মশহর	Mosher	1
+মসজিদগুলির	Mosques	1
+মসজিদে	Mosque	1
+মসজিদের	The mosque	1
+ম-সম	Mo-sum	1
+মসুল	Mosul	1
+মহম	Maham	1
+মহাদেশের	The continent	1
+মহাবির	Mahabir	1
+মহামারি	Epidemic	1
+মহামারির	Epidemic	1
+মহিউদ	Mohiudd	1
+মহিলাদের	Women	1
+মাইলে	Mile	1
+মাংসের	The flesh	1
+মাকে	Mother	1
+মাজারে	At the shrine	1
+মাঝেমাঝেই	Occasionally	1
+মাটির	Soil	1
+মানকাজে	At standard level	1
+মানজনক	Justifiable	1
+মানবাধিকারের	Human rights	1
+মানবে	Will agree	1
+মানভাষী	Standard speakers	1
+মানরা	Manara	1
+মানাধীন	Under the cover	1
+মানিকে	Mind	1
+মানিতেই	In mind	1
+মানিয়ে	Adjust	1
+মানুষদের	People	1
+মাপের	Size	1
+মাফ	Excuse me	1
+মামলার	In the case	1
+মায়ার	Maya	1
+মায়েদের	Mothers	1
+মারটিন	Martin	1
+মারবার	Hit	1
+মালভূমিটির	Plateau	1
+মাসুদ	Masud	1
+মিইয়ো	Meio	1
+মিইয়োর	Mioyor	1
+মিউনিখে	Munich	1
+মিউনিখের	Munich	1
+মিংহামে	Mingham	1
+মিকাটি	Mickey	1
+মিটারেরও	Meters too	1
+মিনালটি	Minalty	1
+মিনালের	Minal	1
+মিয়ানমার	Myanmar	1
+মিয়ানমারে	Myanmar	1
+মিয়ায়	Mia	1
+মিলনের	Milon	1
+মিলিমিটারেরও	Millimeter	1
+মিলিয়ে	In total	1
+মিলিলিটার	Milliliter	1
+মিলিশিয়া	Militia	1
+মিলিশিয়াদের	Militias	1
+মিশরে	In Egypt	1
+মিশায়েল	Michael	1
+মিশিয়ে	Mixed	1
+মিসৌরি	Missouri	1
+মীয়স	Miyus	1
+মুখ-গহ	Mouth-ghar	1
+মুখীনও	Face-to-face	1
+মুখে	Face	1
+মুখের	Face	1
+মুখোমুখী	Face-to-face	1
+মুছে	Delete	1
+মুদিখানার	Groceries	1
+মুমূর	Mumoor	1
+মুর	Moore	1
+মুরগী	Chicken	1
+মুরিং	Mooring	1
+মুলিয়কেলার	Mullikeller	1
+মুশকিলে	Mushkile	1
+মুশাররফ-এর	Musharraf&#39;s	1
+মুশাররফকে	Musharraf	1
+মুশাররফ-যে	Musharraf-that	1
+মুশাররফের	Musharraf	1
+মুশারাফ	Musharraf	1
+মুসলমানদের	Muslims	1
+মুসলিমরা	Muslims	1
+মুসলিমরাই	Muslims are	1
+মুহাম	Moham	1
+মূলভুভাগ	Main house	1
+মূলভুভাগের	Main section	1
+মূলভূমিতে	In the mainland	1
+মূলীকরণ	The basics	1
+মৃতদের	Dead	1
+মৃতিতে	In mind	1
+মৃতিপটে	In the mood	1
+মৃতের	Dead	1
+মৄত	Mt.	1
+মেঘের	Clouds	1
+মেটাতে	To meet	1
+মেডিক	Medical	1
+মেয়েটি	The girl	1
+মেয়েটির	Girl&#39;s	1
+মেরও	Beat up	1
+মেরুদন	Prediction	1
+মেরে	Kill	1
+মেলনটিতে	Melanie	1
+মেলে	Match	1
+মেলো	Melo	1
+মেসেজ	Message	1
+মোক	Mok	1
+মোকাবেলা	Tackle	1
+মোকাবেলায়	To combat	1
+মোগাডিসুতে	In Mogadishu	1
+মোগাডিসুর	Mogadishu	1
+মোচনের	Mohan	1
+মোজাম	Mozam	1
+মোটকৃষি	Aggregate	1
+মোতায়েনকালে	During the deployment	1
+মোনিয়ার	Monier	1
+মোশাররফের	Musharraf	1
+মোহনা	Estuarine	1
+মোহনায়	In the estuary	1
+মোহম	Moham	1
+মোহামেদ	Mohamed	1
+মৌলবীরা	Maulabira	1
+মৌলিকনীতি	Fundamental policy	1
+মৌলিকভাবে	Fundamentally	1
+মৌসাভিয়ান	Mossavian	1
+য-অনুষ	Jupiter	1
+যকরভাবে	Gypsy	1
+যকাও	Jacao	1
+য-কাঠামোর	J-framework	1
+যকায়	Zakaya	1
+যকারী	The doctor	1
+যকৃতের	Liver	1
+যকেও	Anyway	1
+যগর	Yogar	1
+যগুলো	Those	1
+যগুলোর	Those	1
+যজনক	Useful	1
+যতটা	As much as	1
+যতমুখী	As many as possible	1
+যথাথর	As far as	1
+যদল	Jindal	1
+যদেশ	Country	1
+যদেশগুলোকে	The countries	1
+যনির	Yannick	1
+যপন	Bake	1
+যপী	Japi	1
+যবধানে	By the way	1
+যবর	Back then	1
+যবহার--	Use of--	1
+যবহারকারী	User	1
+যবাম	Oh	1
+যবাহিনী	Fire brigade	1
+যবাহিনীর	The air force	1
+যবিত	Have been	1
+যমতো	Dormant	1
+যমেও	Even after	1
+যয়কর	Salivary	1
+যয়মূলক	Zodiacal	1
+যয়ের	Zain	1
+য-র	Of y	1
+য-রাত	Y-night	1
+যরাতে	Move on	1
+যহত	Wounded	1
+যহুই	Jahui	1
+যাও	Go to	1
+যাংস	Jungle	1
+যাঁকে	To whom	1
+যাঁর	Whose	1
+যাককোরম	Jekacomes	1
+যাকয়	Let&#39;s see	1
+যাকেজ	Gisez	1
+যাকেডামি	Jekedamy	1
+যাগত	To know	1
+যাগাজিনে	In the back	1
+যাগুলোর	Which are	1
+যাটফোর	Jatoffor	1
+যাটি	That is	1
+যাটির	Jatty	1
+যাটেলাইট	Jatellite	1
+যাটো	Jato	1
+যাটোর	Jatore	1
+যাড	Jade	1
+যাডলি	Jadley	1
+যাডারদের	Jader&#39;s	1
+যাতনের	Injury	1
+যাতহভাবে	As soon as	1
+যাথলজী	Jaitolji	1
+যাথা	As soon as	1
+যাথিস	Jathis	1
+যাধি	By the way	1
+যানচেস	Vanches	1
+যানবেরা	Jababera	1
+যানা	Jana	1
+যানামাইসিন	Goamyasyin	1
+যানারি	Visitor	1
+যানি	Yani	1
+যানেল	Visitor	1
+যাপরিস	Yapris	1
+যাপারও	You can also	1
+যাফিইন	Jaffin	1
+যাফিইনসম	Japhee	1
+যাফিইনের	Jaffin&#39;s	1
+যাবজ	All right	1
+যাবর	Come back	1
+যাবলির	Jabalbee	1
+যাবিংটন	Jabington	1
+যাবেনা	Can not go	1
+যাভি	Javi	1
+যামিয়া	Jamiya	1
+যামেরাম	Jumaram	1
+যামেরায়	In Jamiara	1
+যামেরোন	Jarameron	1
+যামেরোনের	Jamanon&#39;s	1
+যায়-আসে	Go-comes	1
+যায়গা	Zaga	1
+যায়ণ	Going	1
+যায়নি	Could not	1
+যায়নিষ	Clutter	1
+যারডার	Shader	1
+যারতসোগোভিনার	Jaratasogovina	1
+যারসোগোভিনায়	In Jarsogovina	1
+যারিয়ার	Ziera	1
+যালন	Miss	1
+যালিস	Yalis	1
+যালেন	Check out	1
+যালেসে	In charge	1
+যালো	Jloe	1
+যালোক	Yalok	1
+যালোকের	Yellowock	1
+যাসংক	Yasank	1
+যা-সহ	With which	1
+যাসোসিয়েটেড	Yasociated	1
+যাহতি	As a result	1
+যিসত	Please	1
+য়ুগ	Yug	1
+যুগপত	Simultaneous	1
+যুগাচ	Youth	1
+যুগোস	Yugos	1
+যুতের	Addictive	1
+য়ুদ	Jude	1
+যুয়েন	Yueen	1
+য়ুর	Love	1
+যুরটার	Up	1
+যুরশার	Zurshar	1
+যুলার	Zulara	1
+যুসেলডর	Jusdale	1
+যেকবার	Once	1
+যেত	Could	1
+যেরকম	As it is	1
+যেসব	Which are	1
+যে-সব	All that	1
+যোগ	Added	1
+যোগকে	Yoga	1
+যোগদানের	Join	1
+যোগাযোগে	Contact Us	1
+যোদ	Just like	1
+যোয়েলনার	Joelner	1
+রওয়ানা	Leave	1
+রকট	Rocket	1
+রকান	Rack	1
+রকৃতপক	Reporter	1
+রকৃতি	Royalty	1
+রকেফেলার	Rockefeller	1
+রকৌশলীদের	The robbers	1
+রকৌশলীর	The technician	1
+রগামী	Raging	1
+রগিত	Rosy	1
+রগুলোকে	The stars	1
+রগুলোতে	In the fields	1
+রগুলোর	Rows	1
+রঙগুলো	The colors	1
+রচারের	Rotor	1
+রজাতিরবিরল	Raccoon	1
+রজান	Rajan	1
+রজাপতির	Razapati	1
+রজোট	Rajot	1
+রটোকলের	Rotocal	1
+রণয়নকারীদের	Striker	1
+রণাঙ	Ranong	1
+রণাধিকার	Warranty	1
+রণীত	The queen	1
+রণেতা	The hero	1
+রতটে	Rattate	1
+রতর	Rotor	1
+রতারনা	Screaming	1
+রতিই	Rati	1
+রতিকারের	Ratikar&#39;s	1
+রতিকুল	Romantic	1
+রতিটিবার	Rottibet	1
+রতিনিধিরাও	Ratinidira too	1
+রতিবন	Ratiban	1
+রতিরোধক	Preventive	1
+রতিরোধকারীদের	Rioters	1
+রতিরোধকারীরা	The protesters	1
+রতিরোধজ	Riot resistance	1
+রতিরোধবোধ	Anti-depressant	1
+রতিরোধমূলক	Antitrustful	1
+রতিরোধের	Rebellion	1
+রতিশোধ	Rupatta	1
+রতিষার	Ratisar	1
+রথমএয়ার	Rothamair	1
+রথমত	Rothamat	1
+রথমদিকে	In the middle	1
+রদায়কে	Fade	1
+রদাহ	Radah	1
+রদাহও	Radaha too	1
+রদূতও	The remote	1
+রদূতদের	The ropes	1
+রদূতের	The rider	1
+রদে	Revoke	1
+রদেশীয়	Native	1
+র-ধ	Radha	1
+রধারী	Keeper	1
+রননৈতিক	Strategic	1
+রনয়নে	Ronnay	1
+রনীতির	Strategies	1
+রনেতার	Renaatar	1
+রপতির	The president	1
+রবাদিদের	Ravids	1
+রবারও	Rubber too	1
+রবাহিত	Transmitted	1
+রবাহের	Rouge	1
+রবিহীন	Royal	1
+র-বিহীন	Unless	1
+রমকে	Romake	1
+রমজ	Ramad	1
+রমণকারী	Enjoyer	1
+রমণকারীদের	Entertaining players	1
+রমণকেন	Romance	1
+রমণশীঘ	Gaiety	1
+রমশক	Rumshak	1
+রমিককে	Rummock	1
+রয়	Ray	1
+রয়টারের	Reuters	1
+রয়হীন	Rayless	1
+রয়ার	Rear	1
+রয়াসকে	Ryasake	1
+রয়াসে	Reyes	1
+রয়াসের	Reyes	1
+রয়েট-এ	At the root	1
+রয়েল	Royal	1
+রয়োগকারী	Persuasive	1
+রয়োগমূলক	Compulsive	1
+রয়োজনে	To be arranged	1
+রয়োদশতম	Ryodashtam	1
+ররোধী	Crystallized	1
+রশংসাকরেছেন	Conjured	1
+রশংসিত	Rushed	1
+রশাসক	The reporter	1
+রশাসনকর	Governor	1
+রশাসনকে	Rashtan	1
+রশাসনবে	In Rashtanabe	1
+রশিল	Rashil	1
+রসবের	Shorts	1
+র-সম	Ray sum	1
+রসর	Roser	1
+রসিদটা	Receipt	1
+রসু	Rosas	1
+রসেনার	Rosner	1
+রহণকারীর	Researcher	1
+রহরার	Rahrar	1
+রাইসকে	Rice	1
+রাইসের	Rice&#39;s	1
+রাউজিং	Rowing	1
+রাংক	Ranking	1
+রাংকফ	RANKF	1
+রাককালে	During the rakas	1
+রাকের	Rack	1
+রাখতেই	Keep it	1
+রাখলে	Put it	1
+রাখুন	Keep it	1
+রাখেন	Keep it	1
+রাঙ	The ring	1
+রাচীনচীনে	Ranchinchin	1
+রাজধানীতে	In the capital	1
+রাজধানীর	The capital	1
+রাজনীতিকরা	Politicians	1
+রাণনাশের	Ranance	1
+রাণীগুলোর	Queens	1
+রাণীদের	The queen	1
+রাণীর	The Queen	1
+রাতের	Night	1
+রাদুর	Clog	1
+রানতিসি	Rantisi	1
+রানবন	Runner	1
+রানের	Run	1
+রাফার	Rafar	1
+রাফাররা	Rafara	1
+রাবল	Rumble	1
+রাবার	Rubber	1
+রামক	Ramak	1
+রামস	Rams	1
+রামিত	Ramit	1
+রামীণ	Ramin	1
+রায়ণের	Rayana	1
+রায়েল	Rael	1
+রায়েলী	Royal	1
+রাল	Rall	1
+রাশিদ	Rashid	1
+রাশী	Rashi	1
+রাসবাদীরা	Raswaldas	1
+রাসাইক	Rasik	1
+রাসিদ	Rasid	1
+রাসীবিস	Rancis	1
+রাসেলস	Russell&#39;s	1
+রাহিমি	Rahimi	1
+রাহিমির	Rahimir	1
+রিউ	Rue	1
+রিকপ	Recuperate	1
+রিকভাবে	Rickety	1
+রিকরণের	Recursion	1
+রিকাঃ	Rica	1
+রিকানদেশ	Reconnaissance	1
+রিকোণার	Rikonah	1
+রিখ	Rich	1
+রিগে	Rigge	1
+রিজার	Risar	1
+রিজে	Ridge	1
+রিটের	Write	1
+রিদ	Rid	1
+রিদকে	Ridke	1
+রিদি	Radi	1
+রিমানাল	Remanded	1
+রিমিনাল	Reminiscent	1
+রিমোট	Remote	1
+রিয়ট	Reyat	1
+রিয়তা	Riyata	1
+রিয়পাত	Ripat	1
+রিয়াধের	Raidhare	1
+রিয়াল	Real	1
+রিশিয়েট	Rhesiette	1
+রিসমাসও	Rimsus too	1
+রিসমাসের	Rimsus	1
+রীডকে	Reid	1
+রীতিকর	Ritualist	1
+রীনহাউসের	Rinhaus	1
+রীব	Rib	1
+রীবাহী	Ravi	1
+রীরাবলেছেন	Riyarabaleen	1
+রীসভায়	In the Reception	1
+রীসভারপ	Reisworop	1
+রী-সহযোগিতা	RI-Cooperation	1
+রীসে	Reese	1
+রুক	Rock	1
+রুকস	Rooks	1
+রুখতে	To stop	1
+রুটেলের	Route	1
+রুততর	Rooter	1
+রুতভাবে	Ropeway	1
+রুতা	Ruta	1
+রুতিদান	Routidan	1
+রুতিবদ	Routine	1
+রুমমেট	Roommate	1
+রুসেলসে	Russelles	1
+রূণের	Rune	1
+রূনটি	Rune	1
+রেওয়াজ	Practice	1
+রেকর	Racker	1
+রেখ	Check out	1
+রেখেছিল	Kept it	1
+রেখেছিলেন	Kept it	1
+রেখেঢেকে	Darling	1
+রেগে	Angry	1
+রেডিস	Redis	1
+রেণীর	Ranni	1
+রেতার	Rata	1
+রেনটি	Reynt	1
+রেপ	Rap	1
+রেপটোমাইসিন	Raptomysin	1
+রেম	Rem	1
+রেমেন	Remain	1
+রেমেনের	Remain	1
+রেরণায়	Raninay	1
+রেরীতে	Rory	1
+রেলীয়	Railways	1
+রো	Row	1
+রো-এশিয়ার	Row-Asia	1
+রোএশীয়দেশ	Rosaceous	1
+রোকেটের	Rocket	1
+রোগএইডস	Disease AIDS	1
+রোগটি	The disease	1
+রোগশোকের	Disease	1
+রোগাক	Disease	1
+রোগীদের	Patients	1
+রোগীরা	Patients	1
+রোগে	Disease	1
+রোগের	Disease	1
+রোটিনজাত	Rotinut	1
+রোডম	Roadmap	1
+রোতপ	Route	1
+রোম-এর	Rome&#39;s	1
+রোয়েসিয়া	Roissia	1
+রোয়েসিয়ার	Roissier	1
+লট	Lot	1
+লড	LOAD	1
+লড়ার	Fight	1
+লম	Lam	1
+লাই	Lai	1
+লাইটযাতায়াচ	Light Jacket	1
+লাইটে	Lights	1
+লাইটের	Lights	1
+লাইনটি	The line	1
+লাইব	Live	1
+লাইবেরিয়ায়	Liberia	1
+লাউদ	Loud	1
+লাকিয়া	LAKIA	1
+লাখদার	Lakhdar	1
+লাগছে	Looks like	1
+লাগাতে	Put in	1
+লাগানোর	Planting	1
+লাগিয়ে	Planted	1
+লাগিয়েছিল	Fitted	1
+লাগিয়েছে	Fitted	1
+লাগে	Takes it	1
+লাদেনের	Bin Laden	1
+লান	The lane	1
+লাবিত	Lavish	1
+লাভিয়ার	Lavier	1
+লাভিয়ারযুযোস	Lavierjuice	1
+লায়	Lai	1
+লারিজানির	Larijani	1
+লাশি	Lassi	1
+লাশী	The dead body	1
+লাশীঅভিযান	Laishivision	1
+লাসায়	In lasay	1
+লাহ	Lah	1
+লাহ-য়	Lah	1
+লাহুদ	Lahud	1
+লিউক	Luke	1
+লিউকেমিয়া	Leukemia	1
+লিখছেন	Writing	1
+লিজ	Lease	1
+লিণ	Lynn	1
+লিনেব	Leibb	1
+লিফটটি	Lift	1
+লির	Lire	1
+লিশ	Lys	1
+লিশাধিক	More than usual	1
+লীগা	League	1
+লীগায়	In league	1
+লীগে	In the league	1
+লুকনো	Hidden	1
+লেউকোপ	Leukop	1
+লেঃ	Leigh	1
+লেখার	Writing	1
+লেগে	Lag	1
+লেগেছে	Likes	1
+লেফ	Lefts	1
+লেবাননে	In Lebanon	1
+লেবানিজ	Lebanese	1
+লেমনেডের	Lemonade	1
+লেষণই	I love you	1
+লো	Lo	1
+লোককের	The guy&#39;s	1
+লোকটিকে	The man	1
+লোকটির	The man&#39;s	1
+লোকে	People	1
+লোকেদের	People	1
+লোভিনিয়া	Lovinia	1
+লোভেনিয়া	Lovania	1
+লোভেনিয়ার	Lobenier	1
+লোমাট	Lamat	1
+লোরান	Lorraine	1
+লোরোমাইসেটিন	Loromicetin	1
+শকের	Shock	1
+শতাংশই	Percentages	1
+শনকারী	Cursor	1
+শনকারীকে	Shanaktake	1
+শনকারীর	Shanakarara	1
+শনাক	Shanak	1
+শনে	Shan	1
+শরীরচর	Ancillary	1
+শহরগুলি	Cities	1
+শহরটি	The city	1
+শহরবাসীদের	The townspeople	1
+শহরবাসীরা	The townspeople	1
+শহরেরই	City&#39;s	1
+শাইটি	Shite	1
+শাও	Shaw	1
+শাওকত	Shawkat	1
+শাঁখের	The shell	1
+শার	Shah	1
+শারন-এর	Sharon&#39;s	1
+শাসনতন	Regime	1
+শিংয়ের	Horns	1
+শিখিয়েছি	Learned	1
+শিগগির	Soon	1
+শিঙ	Horn	1
+শিঙ-বিশিষ	Horns	1
+শিনার	Shinar	1
+শিপ	The ship	1
+শিবিরে	In the camp	1
+শিরাকও	Chirac	1
+শিরোপাধারী	Championship	1
+শিরোপার	Header	1
+শিলি	Shilly	1
+শিশু-অপহরন	Child-abduction	1
+শিশুরা	Children	1
+শিশুরাই	Children	1
+শিশু-সম	Child-like	1
+শিশু-হরন	Children	1
+শীতে	In winter	1
+শীতের	Winter	1
+শীরা	Shira	1
+শুতে	To sleep	1
+শুধরে	Right away	1
+শুনলাম	I heard	1
+শুনলেন	Heard it	1
+শুনে	Hear it	1
+শুরুর	Start	1
+শৃঙখলার	Shankhala	1
+শেখকে	Sheikh	1
+শেখেও	Learn	1
+শেখো	Learn	1
+শেরির	Shery	1
+শোকও	Mourning	1
+শোকার	Grief	1
+শোকে	Grief	1
+শোনার	Listening	1
+ষও	Even	1
+ষকদের	Teachers	1
+ষকরা	Peaks	1
+ষকে	I	1
+ষণটাওয়ার	Shotwar	1
+ষণিক	Empiric	1
+ষণীয়	Good	1
+ষতিহয়েছে	It&#39;s okay	1
+ষদর	Yes	1
+ষধ	Medicine	1
+ষনের	Sixteen	1
+ষপাতিত	Rancid	1
+ষমতাকে	Shimata	1
+ষয়ক	Everybody	1
+ষয়-ক	Sixty-eight	1
+ষয়ী	Shey	1
+ষরকারী	The sorcerer	1
+ষা-খাদ	Bass	1
+ষাটের	Sixty	1
+ষাতকালে	In the evening	1
+ষাতিসূক	Systolic	1
+ষাতে	In sixty	1
+ষাপটে	Papaya	1
+ষায়অধিকতর	More than that	1
+ষিণতম	The threshold	1
+ষিণাংমের	Xenonamam	1
+ষিণাঞ	Shinan	1
+ষিনাংশে	In sixty two	1
+ষীজাত	Folk	1
+ষীদের	The peasants	1
+ষীয়ভাবে	Twice	1
+ষীয়ান	Sixteen	1
+ষু	Hey	1
+ষুধা	The drug	1
+ষেপকে	To the sapake	1
+ষেপযোগ	Help	1
+.স	.s	1
+সংকল	Compilation	1
+সংকলনে	Compilation	1
+সংকীর	Sankira	1
+সংকোচনের	Shrinking	1
+সংগঠনও	Organization also	1
+সংগঠনগুলি	Organizations	1
+সংগঠনগুলির	Organizations	1
+সংগঠনের	The organization	1
+সংঘাতপীড	Conflict	1
+সংজ	Sage	1
+সংযোগটা	Connection	1
+সংলাপকারী	Dialogue	1
+সংশয়	Skepticism	1
+সংশোধনের	Correction	1
+সকদের	Socks	1
+সকে	Check it out	1
+সগুলোর	All of them	1
+সচেতনতার	Awareness	1
+সজ	Sage	1
+সড	Sad	1
+সদরদফতরে	Headquarters	1
+সনাক	Sanak	1
+সফর-এর	Tour	1
+সফরসূচিতে	Tours	1
+সবই	All this	1
+সবকালীন	All time	1
+সবধরনের	All types of	1
+সবরকম	All in all	1
+সবসময়ই	Always	1
+সবাইকে	Everyone	1
+সভাপতিত	Chaired	1
+সভাপতির	The President	1
+সমতলভূমিতে	In the plains	1
+সমতলভূমির	Flatlands	1
+সময়মত	Timely	1
+সময়সূচি	Schedule	1
+সময়োচিতভাবে	Timely	1
+সমাজে	In the society	1
+সমাধিতে	In the tomb	1
+সমান-৭০	Equal-70	1
+সমাবেশিত	Assembled	1
+সমারোহময়	Enthusiastic	1
+সমালোচনাও	Criticism	1
+সমালোচনার	Criticism	1
+সয়েল	Soyle	1
+সরকারকে	Government	1
+সরকারকেই	The government	1
+সরকারদের	Governments	1
+সরকারবে	In government	1
+সরকারে	In government	1
+সরবরাহ-জালের	Supply-net	1
+সরবরাহের	Supply	1
+সরিয়ে	Remove	1
+সহকর	Cooperator	1
+সহযোগিতাই	Co-operation	1
+সহযোগিতাকে	Co-operation	1
+সহযোগীকে	Associate	1
+সহযোগীর	Associate	1
+সহায	Support	1
+সহায়তায়	Supported	1
+সাইটুং	Situng	1
+সাইন	Sign	1
+সাইপ	Saip	1
+সাউদ	Saud	1
+সাংবাদিকরা	Journalists	1
+সাংবাদিকের	Journalist	1
+সাংসদদের	MPs	1
+সাংহাইর	Shanghai	1
+সাকিস	Sakis	1
+সাজ-সরঞ	Decoration	1
+সাটিফিকেশন	Certification	1
+সাঠিক	Correct	1
+সাড়ে	Half	1
+সাতজন	Seven	1
+সাধারনত	Generally	1
+সানতুং	Santung	1
+সাবমেরিনটির	The submarine	1
+সাবমেরিনের	Submarine	1
+সামজিক	Social	1
+সামরিক-	Military-	1
+সায়েব	Saeb	1
+সারাইয়েভোয়	Sarayevoy	1
+সারের	Fertilizer	1
+সালয়	Salam	1
+সালয়েশিয়ার	Salishey	1
+সাশাস	Saasas	1
+সাহব	Sahab	1
+সাহসের	Courage	1
+সাহাকে	Saha	1
+সাহাফ	Cafe	1
+সাহারার	Sahara	1
+সি-আর-আইকে	CRICKET	1
+সিং-এর	Singh&#39;s	1
+সিট	Seat	1
+সিট-বেল	Seat belt	1
+সিটার	Sitter	1
+সিডনের	Sidon	1
+সিডিউল	Schedule	1
+সিনিয়ার	Seniors	1
+সিয়া	Sia	1
+সিয়াও	Siao	1
+সিয়েনাকে	Siena	1
+সিহ	Sih	1
+সীতামারী	Sitamarhi	1
+সীমানায়	Boundary	1
+সীমানার	Border	1
+সুখশান	Happiness	1
+সুড়ঙ	Round	1
+সুদানও	Sudan also	1
+সুদানে	Sudanese	1
+সুনামি-দুর	Tsunami-dur	1
+সুনামের	Reputation	1
+সুনিশ	Fine	1
+সুনে	Sune	1
+সুবক	Good luck	1
+সুবিচারে	Justice	1
+সুবিধার	Advantages	1
+সুযোগকে	Opportunity	1
+সুরাসারে	Surasaray	1
+সুশ	Smell	1
+সুস	Suus	1
+সু-সামাজিক	Well-social	1
+সূক	Suk	1
+সূচনাকে	Introduction	1
+সূচীতব	Indexation	1
+সেইসঙ	Sesang	1
+সে-কথা	Those words	1
+সেকামিয়ান	Secular	1
+সেজের	Sage	1
+সেটাকে	That	1
+সেতুটি	The bridge	1
+সেতুটির	The bridge	1
+সেতুর	The bridge	1
+সেতুলনায়	Settleana	1
+সেদিন	That day	1
+সেদেশে	In that country	1
+সেনচেন	Senchen	1
+সেনসিন	Sensen	1
+সেনাকে	The army	1
+সেনাদেরকে	The soldiers	1
+সেনাবাহিনীকে	Army	1
+সেনাবাহিনীতে	In the army	1
+সেনাশিবিরে	Army camp	1
+সে-বক	She-bak	1
+সেবায়	In service	1
+সেবিষয়ে	In this regard	1
+সেবুতে	In Cebu	1
+সেম	Sem	1
+সেলকে	Cells	1
+সেলানগোর	Selangor	1
+সে-সরকার	He-government	1
+সৈনিকরা	Soldiers	1
+সৈনিকরাও	The soldiers also	1
+সৈনিকের	Soldier	1
+সোং	SONG	1
+সোমবারই	On Monday	1
+সোমালিয়াকে	Somalia	1
+সোমালিয়ায়	Somalia	1
+সোমালিয়ার	Somalia	1
+সোরেক	Sorek	1
+সোলানা	Solana	1
+সোশ	Sos	1
+হওয়াকে	Becoming	1
+হংকংয়ে	In Hong Kong	1
+হজেস	Hedges	1
+হটিয়ে	To overcome	1
+হঠাত	Suddenly	1
+হতভাগ	Winters	1
+হতাহতদের	The casualties	1
+হতাহতের	Casualties	1
+হতেও	Be there	1
+হতেন	Used to	1
+হব	Will be	1
+হয়তবা	Maybe	1
+হয়েছিলো	Has happened	1
+হরণকারী	Rifle	1
+হরনেট	Hornet	1
+হলঃ	Hall	1
+হলেই	If that is the case	1
+হলের	Hall	1
+হাইডেমারি	Hydemarie	1
+হাইপোথার	Hypothar	1
+হাউজের	House	1
+হাওয়া	Air	1
+হাঁসমুরগীর	Chicks	1
+হাঁস-মুরগীর	Poultry poultry	1
+হাগুলোর	In the air	1
+হাজারটি	Thousands	1
+হাজারটিরও	Thousands of	1
+হাজারাধিক	Casual	1
+হাটি	The hottie	1
+হাড়ের	Bone	1
+হানতে	To kill	1
+হানবে	Hanabe	1
+হানার	Hanana	1
+হানিয়া	Hanyia	1
+হানিয়ার	Hanier	1
+হানিয়েহ	Hanyeh	1
+হানে	Han	1
+হানোফারের	Hanover	1
+হামও	Humayun	1
+হামাদ	Hamad	1
+হামারশোল	HummerShol	1
+হামাসকে	Hamas	1
+হায়ী	Enduring	1
+হারাচ	Harach	1
+হারায়	Loses	1
+হারিয়েছে	Missing	1
+হারিয়েছেন	Lost	1
+হাল-অবস	Hal-osm	1
+হালচাল	Moth	1
+হিংসাই	Hingasy	1
+হিংসাপরায়ণ	Violent	1
+হিজাজি	Hijazi	1
+হিতি	Hitu	1
+হিতির	Hitti	1
+হিলমী	Hilmi	1
+হিসেবেই	As it is	1
+হুঁশিয়ার	Beware	1
+হুঁশিয়ারি	Warning	1
+হুবে	Hubby	1
+হুমকিও	Threats	1
+হুমকির	Threats	1
+হুমম	Hmm	1
+হুয়াং	Huang	1
+হুশিয়ারী	Hushari	1
+হুসেন-এর	Hussein&#39;s	1
+হৃদরোগ	Heart disease	1
+হেঁটেহেঁটে	Wiggle	1
+হেক	Heck	1
+হেগ	Hague	1
+হেনেছিল	Smiled	1
+হোটেলটি	The hotel	1
+হোটেলের	Hotel	1
+হোনান	Hone	1
+হোয়াইট	White	1
+হোয়াংহো	Hoangho	1
+--হোয়াংহোর	--Hoonghour	1
+হোয়াংহোর	Hoinghour	1
+াই	I	1
+াই-এ	I	1
+াই-এর	I	1
+াইশো	Shirt	1
+াছড	Trash	1
+ানোর	Turn to	1
+াবার	Mr.	1
+ালিতে	In the house	1
+াশোনা	Sashona	1
+ি	I	1
+িগন	Ion	1
+িঘর	The house	1
+িতে	On	1
+ীটা	I	1
+ীর	His mother	1
+েই	This is	1
+েছেন	Did you	1
+েনের	I	1

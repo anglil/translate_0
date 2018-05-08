@@ -1,0 +1,5 @@
+train_src: /home/ec2-user/kklab/Projects/lrlp/experiment_2017.08.04.vie-eng.y1r1.v2/translation/train/src_raw.vie.train.y1r1.v2
+dev_src: /home/ec2-user/kklab/Projects/lrlp/experiment_2017.08.04.vie-eng.y1r1.v2/translation/dev/src_raw.vie.dev.y1r1.v2
+train_tgt: /home/ec2-user/kklab/Projects/lrlp/experiment_2017.08.04.vie-eng.y1r1.v2/translation/train/ref_raw.eng.train.y1r1.v2
+dev_tgt: /home/ec2-user/kklab/Projects/lrlp/experiment_2017.08.04.vie-eng.y1r1.v2/translation/dev/ref_raw.eng.dev.y1r1.v2
+bilingual_lexicon: /home/ec2-user/kklab/data/lorelei/LEXICONS/clean-merged/clean-merged/vie-eng.masterlex.txt

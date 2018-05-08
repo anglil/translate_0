@@ -1,0 +1,1 @@
+javac -cp .:/home/ec2-user/kklab/src/Palmetto/palmetto/target/palmetto-0.1.0-jar-with-dependencies.jar:/home/ec2-user/kklab/hppc/hppc/target/hppc-0.8.0-SNAPSHOT.jar get_pmi.java && java -cp .:/home/ec2-user/kklab/src/Palmetto/palmetto/target/palmetto-0.1.0-jar-with-dependencies.jar:/home/ec2-user/kklab/hppc/hppc/target/hppc-0.8.0-SNAPSHOT.jar get_pmi

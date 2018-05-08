@@ -1,0 +1,1 @@
+/home/ec2-user/kklab/src/mosesdecoder/bin/moses -search-algorithm 5 -f jk.ini < /home/ec2-user/kklab/Projects/lrlp/experiment_isi-sbmt-v6-amh-tgdict8.il5-eng.y2r1.v6/oov_trans_ngram/lattices/onebest.eng.test.y2r1.v6_1/0 -beam-threshold 100

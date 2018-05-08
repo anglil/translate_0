@@ -1,0 +1,185 @@
+#!/bin/bash
+
+### main script
+BASE_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+source $BASE_DIR/../../config.sh $1 $2
+source $BASE_DIR/../../utils.sh
+
+s=$1
+t=$2
+
+mpl=3
+use_bpe=true
+
+# --------
+if [ "$use_bpe" = true ]; then
+  use_bpe=_usebpe
+else
+  use_bpe=""
+fi
+# --------
+
+##################################
+# model paths
+##################################
+
+model_dir=$exp_dir/model_mpl${mpl}${use_bpe}
+mkdir -p $model_dir
+truecase_model_dir=$model_dir/truecase
+mkdir -p $truecase_model_dir
+language_model_dir=$model_dir/lm
+mkdir -p $language_model_dir
+train_model_dir=$model_dir/train
+mkdir -p $train_model_dir
+dev_model_dir=$model_dir/dev
+mkdir -p $dev_model_dir
+
+phrase_bin=$dev_model_dir/phrase-table.minphr
+lexical_bin=$dev_model_dir/reordering-table.minlexr
+
+model_trained=$train_model_dir/model/moses.ini
+model_tuned=$dev_model_dir/moses.ini
+model_tuned_bin=$dev_model_dir/moses.bin.ini
+
+##################################
+# training a language model for the target language
+##################################
+
+# create a language model on the target language
+lm_factor=0
+ngram=3
+lm_type=8
+target_side_lm=${language_model_dir}/lm_ngram.${t}.train.${yrv}
+ngram_lm_train $ngram ${trans_dir}/train/ref_raw.${t}.train.${yrv} $target_side_lm
+
+# binarize the language model built on the target language
+target_side_blm=${language_model_dir}/blm_ngram.${t}.train.${yrv}
+ngram_lm_binarize $target_side_lm $target_side_blm
+echo "----------------"
+
+##################################
+# training
+##################################
+
+# ---- alignment model ----
+# grow, intersect (intersection of the GIZA++ alignments in both directions), union (union of the two GIZA++ alignments)
+al_basic=grow
+# include diagonal neighbors
+al_diag=diag
+# final step: http://www.statmt.org/moses/?n=FactoredTraining.AlignWords
+al_final=final
+# and/or in a final step condition: http://www.cl.uni-heidelberg.de/courses/ss15/smt/scribe3.pdf
+al_and_or=and
+# overall alignment configuration
+al=$al_basic-$al_diag-$al_final-$al_and_or
+
+# ---- reordering model ----
+# (modeltype) wbe: word-based extraction, but phrase-based at decoding
+ro_modeltype=wbe
+# (orientation) msd: considers three different orientations: monotone, swap, discontinuous; mslr: monotone, swap, discontinuous-left, discontinuous-right
+ro_orientation=msd
+# (directionality) bidirectional: use both backward and forward models
+ro_directionality=bidirectional
+# (language) fe: conditioned on both the source and target languages
+ro_language=fe
+# (collapsing) allff: treat the scores as individual feature functions
+ro_collapsing=allff
+# overall reordering configuration
+ro=$ro_modeltype-$ro_orientation-$ro_directionality-$ro_language-$ro_collapsing
+
+# ---- maximum phrase length ----
+# see the beginning of this script
+
+### train based on the binarized language model
+if [ -f $model_trained ]; then
+  echo "Trained model exists at $model_trained"
+else
+  train_src=${trans_dir}/train/${src_label}_raw.${s}.train.${yrv}
+  train_tgt=${trans_dir}/train/${ref_label}_raw.${t}.train.${yrv}
+  cp $train_src ${trans_dir}/train/train.${yrv}.$s
+  cp $train_tgt ${trans_dir}/train/train.${yrv}.$t
+  $trainer \
+    -root-dir $train_model_dir \
+    -corpus ${trans_dir}/train/train.${yrv} \
+    -f $s \
+    -e $t \
+    -alignment $al \
+    -reordering $ro \
+    -max-phrase-length $mpl \
+    -lm ${lm_factor}:${ngram}:${target_side_blm}:${lm_type} \
+    -external-bin-dir $moses_tool_dir \
+    -cores 4 \
+    2>&1 | tee $log_dir/train.log
+  #wait_for_existence $model_trained
+fi
+echo "----------------"
+
+################################## 
+# tuning
+##################################
+
+if [ -f $model_tuned ]; then
+  echo "Tuned model exists at $model_tuned"
+else
+  dev_src=${trans_dir}/dev/${src_label}_raw.${s}.dev.${yrv}
+  dev_tgt=${trans_dir}/dev/${ref_label}_raw.${t}.dev.${yrv}
+  $tuner \
+		--working-dir=$dev_model_dir \
+    $dev_src \
+    $dev_tgt \
+    $decoder \
+		$model_trained \
+    --mertdir $moses_bin_dir \
+    --decoder-flags="-threads all" \
+    2>&1 | tee $log_dir/dev.log
+  #wait_for_existence $model_tuned
+fi
+echo "----------------"
+
+##################################
+# binarizing the tuned model
+##################################
+
+### binarize the phrase table
+if [ -f $phrase_bin ]; then
+  echo "Binarized phrase table exists at $phrase_bin"
+else
+  $phrase_binarizer \
+    -in $train_model_dir/model/phrase-table.gz \
+    -out $dev_model_dir/phrase-table \
+    -nscores 4 \
+    -threads 4
+fi
+
+### binarize the lexical table
+if [ -f $lexical_bin ]; then
+  echo "Binarized lexical table exists at $lexical_bin"
+else
+  $lexical_binarizer \
+    -in $train_model_dir/model/reordering-table.wbe-msd-bidirectional-fe.gz \
+    -out $dev_model_dir/reordering-table \
+    -threads 4
+fi
+
+### binarize the tuned model based on the binarized phrase table and lexical table
+if [ -f $model_tuned_bin ]; then
+	echo "Binarized tuned model exists at $model_tuned_bin"
+else
+  python $BASE_DIR/binarize_model.py \
+    $model_tuned \
+    $phrase_bin \
+    $lexical_bin \
+    $model_tuned_bin
+	#echo "Creating binarized model..."
+	#cp $model_tuned $model_tuned_bin
+	#sed -i 's/PhraseDictionaryMemory/PhraseDictionaryCompact/g' $model_tuned_bin
+	#phrase_bin_escape=$(echo "$phrase_bin" | sed 's/\//\\\//g')
+	#sed -i "/^PhraseDictionaryCompact/s/path=[^ ]* /path=${phrase_bin_escape} /g" $model_tuned_bin
+	#lexical_bin2=$( echo $lexical_bin | cut -d "." -f1,2,3,4 )
+	#lexical_bin_escape=$(echo "$lexical_bin2" | sed 's/\//\\\//g')
+	#sed -i "/^LexicalReordering/s/path=[^ ]*$/path=${lexical_bin_escape}/g" $model_tuned_bin
+	#echo "Binarized tuned model created at $model_tuned_bin"
+fi
+echo "----------------"
+
+
